@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:eftr="http://purl.84000.co/resource/core/" xmlns:bdr="http://purl.bdrc.io/resource/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:adm="http://purl.bdrc.io/ontology/admin/" xmlns:bdo="http://purl.bdrc.io/ontology/core/" xmlns:bda="http://purl.bdrc.io/admindata/"><!--Some admin data-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/DatasetAdminData">
+        <bda:metadataLegal rdf:resource="http://purl.84000.co/resource/core/LegalData"/>
+        <adm:adminAbout rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
+        <adm:adminAbout rdf:resource="http://purl.84000.co/resource/core/WEKDTOH114"/>
+        <adm:adminAbout rdf:resource="http://purl.84000.co/resource/core/WATTOH114"/>
+        <adm:adminAbout rdf:resource="http://purl.84000.co/resource/core/WAETOH114"/>
+        <adm:adminAbout rdf:resource="http://purl.84000.co/resource/core/WAITOH114"/>
+        <adm:graphId rdf:resource="http://purl.84000.co/resource/core/Dataset"/>
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/admin/AdminData"/>
+    </rdf:Description><!--Content provider-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/EFT">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/admin/ContentProvider"/>
+        <rdfs:label>84000</rdfs:label>
+    </rdf:Description><!--Legal data-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/LegalData">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/admin/LegalData"/>
+        <adm:provider rdf:resource="http://purl.84000.co/resource/core/EFT"/>
+        <adm:license rdf:resource="http://purl.bdrc.io/admindata/LicenseCC0"/>
+        <adm:copyrightOwner rdf:resource="http://purl.84000.co/resource/core/EFT"/>
+        <skos:prefLabel xml:lang="en">Metadata related to the translations by 84000, provided under the CC0 License</skos:prefLabel>
+    </rdf:Description><!--The collection--><!--- The Derge Kangyur-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WKangyurD">
+        <owl:sameAs rdf:resource="http://purl.bdrc.io/resource/W4CZ5369"/>
+        <adm:sameAsBDRC rdf:resource="http://purl.bdrc.io/resource/W4CZ5369"/>
+        <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/BoDbuCan"/>
+        <skos:prefLabel xml:lang="en">Derge Kangyur</skos:prefLabel>
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+    </rdf:Description><!--The abstract work of the Indic text-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAITOH114">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/AbstractWork"/>
+        <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/Inc"/>
+        <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH114"/>
+        <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH114"/>
+        <skos:prefLabel xml:lang="sa-x-iast">Sarva­dharma­guṇa­vyūha­rāja</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Ārya­sarva­dharma­guṇavyūharāja­nāma­mahāyāna­sūtra</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The King of the Array of All Dharma Qualities</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra entitled: The King of the Array of All Dharma Qualities</skos:altLabel>
+    </rdf:Description><!--The Derge edition of the Tibetan translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH114">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/BoDbuCan"/>
+        <bdo:workPartOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
+        <bdo:workExpressionOf rdf:resource="http://purl.84000.co/resource/core/WATTOH114"/>
+        <skos:prefLabel xml:lang="bo">ཆོས་ཐམས་ཅད་ཀྱི་ཡོན་ཏན་བཀོད་པའི་རྒྱལ་པོ།</skos:prefLabel>
+    </rdf:Description><!--The original Tibetan translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH114">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/AbstractWork"/>
+        <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/Bo"/>
+        <bdo:workHasExpression rdf:resource="http://purl.84000.co/resource/core/WEKDTOH114"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH114"/>
+        <skos:prefLabel xml:lang="bo">ཆོས་ཐམས་ཅད་ཀྱི་ཡོན་ཏན་བཀོད་པའི་རྒྱལ་པོ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་ཆོས་ཐམས་ཅད་ཀྱི་ཡོན་ཏན་བཀོད་པའི་རྒྱལ་པོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH114">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/AbstractWork"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH114"/>
+        <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/En"/>
+        <skos:prefLabel xml:lang="en">The King of the Array of All Dharma Qualities</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra entitled: The King of the Array of All Dharma Qualities</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh114.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-59">
+                        <skos:prefLabel xml:lang="en">Benjamin Collet-Cassart</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
+    </rdf:Description>
+</rdf:RDF>
