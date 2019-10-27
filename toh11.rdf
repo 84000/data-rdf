@@ -44,7 +44,7 @@
         <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/BoDbuCan"/>
         <bdo:workPartOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:workExpressionOf rdf:resource="http://purl.84000.co/resource/core/WATTOH11"/>
-        <skos:prefLabel xml:lang="bo">༄༅། །ཤེས་ཕྱིན་ཁྲི་པ། །</skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">ཤེས་ཕྱིན་ཁྲི་པ།</skos:prefLabel>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH11">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -52,8 +52,8 @@
         <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/Bo"/>
         <bdo:workHasExpression rdf:resource="http://purl.84000.co/resource/core/WEKDTOH11"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH11"/>
-        <skos:prefLabel xml:lang="bo">༄༅། །ཤེས་ཕྱིན་ཁྲི་པ། །</skos:prefLabel>
-        <skos:altLabel xml:lang="bo">༄༅། །འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཁྲི་པ་ཤེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། །</skos:altLabel>
+        <skos:prefLabel xml:lang="bo">ཤེས་ཕྱིན་ཁྲི་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཁྲི་པ་ཤེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH11">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
