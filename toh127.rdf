@@ -53,8 +53,8 @@
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH127">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/AbstractWork"/>
-        <owl:sameAs rdf:resource="http://purl.bdrc.io/resource/W0RKA0127"/>
-        <adm:sameAsBDRC rdf:resource="http://purl.bdrc.io/resource/W0RKA0127"/>
+        <owl:sameAs rdf:resource="http://purl.bdrc.io/resource/W0RKT0127"/>
+        <adm:sameAsBDRC rdf:resource="http://purl.bdrc.io/resource/W0RKT0127"/>
         <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/Bo"/>
         <bdo:workHasExpression rdf:resource="http://purl.84000.co/resource/core/WEKDTOH127"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH127"/>
