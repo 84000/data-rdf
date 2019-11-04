@@ -30,8 +30,8 @@
         <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/BoDbuCan"/>
         <skos:prefLabel xml:lang="en">Derge Kangyur</skos:prefLabel>
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
-    </rdf:Description>
-    <adm:canonicalHtml rdf:resource="http://read.84000.co/section/O1JC11494.html"/><!--The abstract work of the Indic text-->
+        <adm:canonicalHtml rdf:resource="http://read.84000.co/section/O1JC11494.html"/>
+    </rdf:Description><!--The abstract work of the Indic text-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAITOH127">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/AbstractWork"/>
