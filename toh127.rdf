@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rdf:RDF xmlns:eftr="http://purl.84000.co/resource/core/" xmlns:bdr="http://purl.bdrc.io/resource/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:adm="http://purl.bdrc.io/ontology/admin/" xmlns:bdo="http://purl.bdrc.io/ontology/core/" xmlns:bda="http://purl.bdrc.io/admindata/"><!--Some admin data-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/DatasetAdminData">
-        <bda:metadataLegal rdf:resource="http://purl.84000.co/resource/core/LegalData"/>
+        <adm:metadataLegal rdf:resource="http://purl.84000.co/resource/core/LegalData"/>
         <adm:adminAbout rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <adm:adminAbout rdf:resource="http://purl.84000.co/resource/core/WEKDTOH127"/>
         <adm:adminAbout rdf:resource="http://purl.84000.co/resource/core/WATTOH127"/>
