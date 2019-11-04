@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:eftr="http://purl.84000.co/resource/core/" xmlns:bdr="http://purl.bdrc.io/resource/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:adm="http://purl.bdrc.io/ontology/admin/" xmlns:bdo="http://purl.bdrc.io/ontology/core/" xmlns:bda="http://purl.bdrc.io/admindata/"><!--Some admin data-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/DatasetAdminData">
+        <bda:metadataLegal rdf:resource="http://purl.84000.co/resource/core/LegalData"/>
+        <adm:adminAbout rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
+        <adm:adminAbout rdf:resource="http://purl.84000.co/resource/core/WEKDTOH127"/>
+        <adm:adminAbout rdf:resource="http://purl.84000.co/resource/core/WATTOH127"/>
+        <adm:adminAbout rdf:resource="http://purl.84000.co/resource/core/WAETOH127"/>
+        <adm:adminAbout rdf:resource="http://purl.84000.co/resource/core/WAITOH127"/>
+        <adm:graphId rdf:resource="http://purl.84000.co/resource/core/Dataset"/>
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/admin/AdminData"/>
+    </rdf:Description><!--Content provider-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/EFT">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/admin/ContentProvider"/>
+        <rdfs:label>84000</rdfs:label>
+    </rdf:Description><!--Legal data-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/LegalData">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/admin/LegalData"/>
+        <adm:provider rdf:resource="http://purl.84000.co/resource/core/EFT"/>
+        <adm:license rdf:resource="http://purl.bdrc.io/admindata/LicenseCC0"/>
+        <adm:copyrightOwner rdf:resource="http://purl.84000.co/resource/core/EFT"/>
+        <skos:prefLabel xml:lang="en">Metadata related to the translations by 84000, provided under the CC0 License</skos:prefLabel>
+    </rdf:Description><!--The collection--><!--- The Derge Kangyur-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WKangyurD">
+        <owl:sameAs rdf:resource="http://purl.bdrc.io/resource/W4CZ5369"/>
+        <adm:sameAsBDRC rdf:resource="http://purl.bdrc.io/resource/W4CZ5369"/>
+        <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/BoDbuCan"/>
+        <skos:prefLabel xml:lang="en">Derge Kangyur</skos:prefLabel>
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+    </rdf:Description><!--The abstract work of the Indic text-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAITOH127">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/AbstractWork"/>
+        <owl:sameAs rdf:resource="http://purl.bdrc.io/resource/W0RKA0127"/>
+        <adm:sameAsBDRC rdf:resource="http://purl.bdrc.io/resource/W0RKA0127"/>
+        <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/Inc"/>
+        <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH127"/>
+        <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH127"/>
+        <skos:prefLabel xml:lang="sa-x-iast">Samādhi­rāja­sūtra</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Ārya­sarva­dharma­svabhāva­samatāvipañcita­samādhi­rāja­nāma­mahā­yāna­sūtra</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The King of Samādhis Sūtra</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The King of Samādhis, the Revealed Equality of the Nature of All Phenomena”</skos:altLabel>
+    </rdf:Description><!--The Derge edition of the Tibetan translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH127">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/BoDbuCan"/>
+        <owl:sameAs rdf:resource="http://purl.bdrc.io/resource/W4CZ5369_0127"/>
+        <adm:sameAsBDRC rdf:resource="http://purl.bdrc.io/resource/W4CZ5369_0127"/>
+        <bdo:workPartOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
+        <bdo:workExpressionOf rdf:resource="http://purl.84000.co/resource/core/WATTOH127"/>
+        <skos:prefLabel xml:lang="bo">ཏིང་ངེ་འཛིན་གྱི་རྒྱལ་པོའི་མདོ།</skos:prefLabel>
+    </rdf:Description><!--The original Tibetan translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH127">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/AbstractWork"/>
+        <owl:sameAs rdf:resource="http://purl.bdrc.io/resource/W0RKA0127"/>
+        <adm:sameAsBDRC rdf:resource="http://purl.bdrc.io/resource/W0RKA0127"/>
+        <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/Bo"/>
+        <bdo:workHasExpression rdf:resource="http://purl.84000.co/resource/core/WEKDTOH127"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH127"/>
+        <skos:prefLabel xml:lang="bo">ཏིང་ངེ་འཛིན་གྱི་རྒྱལ་པོའི་མདོ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་ཆོས་ཐམས་ཅད་ཀྱི་རང་བཞིན་མཉམ་པ་ཉིད་རྣམ་པར་སྤྲོས་པ་ཏིང་ངེ་འཛིན་གྱི་རྒྱལ་པོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
+        <bdo:workRefrKTsK rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">127</bdo:workRefrKTsK>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH127">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/AbstractWork"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH127"/>
+        <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/En"/>
+        <skos:prefLabel xml:lang="en">The King of Samādhis Sūtra</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The King of Samādhis, the Revealed Equality of the Nature of All Phenomena”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh127.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-142">
+                        <skos:prefLabel xml:lang="en">Dr. Peter Alan Roberts</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
+    </rdf:Description>
+</rdf:RDF>
