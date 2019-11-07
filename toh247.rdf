@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:eftr="http://purl.84000.co/resource/core/" xmlns:bdr="http://purl.bdrc.io/resource/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:adm="http://purl.bdrc.io/ontology/admin/" xmlns:bdo="http://purl.bdrc.io/ontology/core/" xmlns:bda="http://purl.bdrc.io/admindata/"><!--Some admin data-->
+<rdf:RDF xmlns:eftr="http://purl.84000.co/resource/core/" xmlns:bdr="http://purl.bdrc.io/resource/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:adm="http://purl.bdrc.io/ontology/admin/" xmlns:bdo="http://purl.bdrc.io/ontology/core/" xmlns:bda="http://purl.bdrc.io/admindata/"><!--Some admin data-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/DatasetAdminData">
-        <bda:metadataLegal rdf:resource="http://purl.84000.co/resource/core/LegalData"/>
+        <adm:metadataLegal rdf:resource="http://purl.84000.co/resource/core/LegalData"/>
         <adm:adminAbout rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <adm:adminAbout rdf:resource="http://purl.84000.co/resource/core/WEKDTOH247"/>
         <adm:adminAbout rdf:resource="http://purl.84000.co/resource/core/WATTOH247"/>
@@ -9,10 +9,12 @@
         <adm:adminAbout rdf:resource="http://purl.84000.co/resource/core/WAITOH247"/>
         <adm:graphId rdf:resource="http://purl.84000.co/resource/core/Dataset"/>
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/admin/AdminData"/>
+        <adm:canonicalHtml rdf:resource="http://84000.co/about/copyright"/>
     </rdf:Description><!--Content provider-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/EFT">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/admin/ContentProvider"/>
         <rdfs:label>84000</rdfs:label>
+        <adm:canonicalHtml rdf:resource="http://84000.co"/>
     </rdf:Description><!--Legal data-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/LegalData">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/admin/LegalData"/>
@@ -20,6 +22,7 @@
         <adm:license rdf:resource="http://purl.bdrc.io/admindata/LicenseCC0"/>
         <adm:copyrightOwner rdf:resource="http://purl.84000.co/resource/core/EFT"/>
         <skos:prefLabel xml:lang="en">Metadata related to the translations by 84000, provided under the CC0 License</skos:prefLabel>
+        <adm:canonicalHtml rdf:resource="http://84000.co/about/copyright"/>
     </rdf:Description><!--The collection--><!--- The Derge Kangyur-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WKangyurD">
         <owl:sameAs rdf:resource="http://purl.bdrc.io/resource/W4CZ5369"/>
@@ -27,10 +30,13 @@
         <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/BoDbuCan"/>
         <skos:prefLabel xml:lang="en">Derge Kangyur</skos:prefLabel>
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <adm:canonicalHtml rdf:resource="http://read.84000.co/section/O1JC11494.html"/>
     </rdf:Description><!--The abstract work of the Indic text-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAITOH247">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/AbstractWork"/>
+        <owl:sameAs rdf:resource="http://purl.bdrc.io/resource/W0RKA0247"/>
+        <adm:sameAsBDRC rdf:resource="http://purl.bdrc.io/resource/W0RKA0247"/>
         <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/Inc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH247"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH247"/>
@@ -38,22 +44,31 @@
         <skos:altLabel xml:lang="sa-x-iast">Āryadharmārtha­vibhaṅga­nāma­mahāyāna­sūtra</skos:altLabel>
         <skos:prefLabel xml:lang="en">Distinguishing Phenomena and What Is Meaningful</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “Distinguishing Phenomena and What Is Meaningful”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh247.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH247">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <owl:sameAs rdf:resource="http://purl.bdrc.io/resource/W4CZ5369_0247"/>
+        <adm:sameAsBDRC rdf:resource="http://purl.bdrc.io/resource/W4CZ5369_0247"/>
         <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/BoDbuCan"/>
         <bdo:workPartOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:workExpressionOf rdf:resource="http://purl.84000.co/resource/core/WATTOH247"/>
         <skos:prefLabel xml:lang="bo">ཆོས་དང་དོན་རྣམ་པར་འབྱེད་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་ཆོས་དང་དོན་རྣམ་པར་འབྱེད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh247.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH247">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/AbstractWork"/>
+        <owl:sameAs rdf:resource="http://purl.bdrc.io/resource/W0RKT0247"/>
+        <adm:sameAsBDRC rdf:resource="http://purl.bdrc.io/resource/W0RKT0247"/>
         <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/Bo"/>
         <bdo:workHasExpression rdf:resource="http://purl.84000.co/resource/core/WEKDTOH247"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH247"/>
         <skos:prefLabel xml:lang="bo">ཆོས་དང་དོན་རྣམ་པར་འབྱེད་པ།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་པ་ཆོས་དང་དོན་རྣམ་པར་འབྱེད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
+        <bdo:workRefrKTsK rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">247</bdo:workRefrKTsK>
+        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh247.html"/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH247">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>

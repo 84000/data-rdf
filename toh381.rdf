@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:eftr="http://purl.84000.co/resource/core/" xmlns:bdr="http://purl.bdrc.io/resource/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:adm="http://purl.bdrc.io/ontology/admin/" xmlns:bdo="http://purl.bdrc.io/ontology/core/" xmlns:bda="http://purl.bdrc.io/admindata/"><!--Some admin data-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/DatasetAdminData">
+        <adm:metadataLegal rdf:resource="http://purl.84000.co/resource/core/LegalData"/>
+        <adm:adminAbout rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
+        <adm:adminAbout rdf:resource="http://purl.84000.co/resource/core/WEKDTOH381"/>
+        <adm:adminAbout rdf:resource="http://purl.84000.co/resource/core/WATTOH381"/>
+        <adm:adminAbout rdf:resource="http://purl.84000.co/resource/core/WAETOH381"/>
+        <adm:adminAbout rdf:resource="http://purl.84000.co/resource/core/WAITOH381"/>
+        <adm:graphId rdf:resource="http://purl.84000.co/resource/core/Dataset"/>
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/admin/AdminData"/>
+        <adm:canonicalHtml rdf:resource="http://84000.co/about/copyright"/>
+    </rdf:Description><!--Content provider-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/EFT">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/admin/ContentProvider"/>
+        <rdfs:label>84000</rdfs:label>
+        <adm:canonicalHtml rdf:resource="http://84000.co"/>
+    </rdf:Description><!--Legal data-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/LegalData">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/admin/LegalData"/>
+        <adm:provider rdf:resource="http://purl.84000.co/resource/core/EFT"/>
+        <adm:license rdf:resource="http://purl.bdrc.io/admindata/LicenseCC0"/>
+        <adm:copyrightOwner rdf:resource="http://purl.84000.co/resource/core/EFT"/>
+        <skos:prefLabel xml:lang="en">Metadata related to the translations by 84000, provided under the CC0 License</skos:prefLabel>
+        <adm:canonicalHtml rdf:resource="http://84000.co/about/copyright"/>
+    </rdf:Description><!--The collection--><!--- The Derge Kangyur-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WKangyurD">
+        <owl:sameAs rdf:resource="http://purl.bdrc.io/resource/W4CZ5369"/>
+        <adm:sameAsBDRC rdf:resource="http://purl.bdrc.io/resource/W4CZ5369"/>
+        <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/BoDbuCan"/>
+        <skos:prefLabel xml:lang="en">Derge Kangyur</skos:prefLabel>
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <adm:canonicalHtml rdf:resource="http://read.84000.co/section/O1JC11494.html"/>
+    </rdf:Description><!--The abstract work of the Indic text-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAITOH381">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/AbstractWork"/>
+        <owl:sameAs rdf:resource="http://purl.bdrc.io/resource/W22934"/>
+        <adm:sameAsBDRC rdf:resource="http://purl.bdrc.io/resource/W22934"/>
+        <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/Inc"/>
+        <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH381"/>
+        <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH381"/>
+        <skos:prefLabel xml:lang="sa-x-iast">Sampuṭodbhavaḥ</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Saṃpuṭodbhavasarvatantranidānamahākalparājaḥ</skos:altLabel>
+        <skos:prefLabel xml:lang="en">Emergence from Sampuṭa</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Foundation of All Tantras, the Great Sovereign Compendium “Emergence from Sampuṭa”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh381.html"/>
+    </rdf:Description><!--The Derge edition of the Tibetan translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH381">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <owl:sameAs rdf:resource="http://purl.bdrc.io/resource/W4CZ5369_0381"/>
+        <adm:sameAsBDRC rdf:resource="http://purl.bdrc.io/resource/W4CZ5369_0381"/>
+        <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/BoDbuCan"/>
+        <bdo:workPartOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
+        <bdo:workExpressionOf rdf:resource="http://purl.84000.co/resource/core/WATTOH381"/>
+        <skos:prefLabel xml:lang="bo">ཡང་དག་པར་སྦྱོར་བ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">ཡང་དག་པར་སྦྱོར་བ་ཞེས་བྱ་བའི་རྒྱུད་ཆེན་པོ།ཡང་དག་པར་སྦྱོར་བ་ཞེས་བྱ་བའི་རྒྱུད་ཆེན་པོ།</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh381.html"/>
+    </rdf:Description><!--The original Tibetan translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH381">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/AbstractWork"/>
+        <owl:sameAs rdf:resource="http://purl.bdrc.io/resource/W0RKT0381"/>
+        <adm:sameAsBDRC rdf:resource="http://purl.bdrc.io/resource/W0RKT0381"/>
+        <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/Bo"/>
+        <bdo:workHasExpression rdf:resource="http://purl.84000.co/resource/core/WEKDTOH381"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH381"/>
+        <skos:prefLabel xml:lang="bo">ཡང་དག་པར་སྦྱོར་བ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">ཡང་དག་པར་སྦྱོར་བ་ཞེས་བྱ་བའི་རྒྱུད་ཆེན་པོ།ཡང་དག་པར་སྦྱོར་བ་ཞེས་བྱ་བའི་རྒྱུད་ཆེན་པོ།</skos:altLabel>
+        <bdo:workRefrKTsK rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">381</bdo:workRefrKTsK>
+        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh381.html"/>
+    </rdf:Description>
+</rdf:RDF>
