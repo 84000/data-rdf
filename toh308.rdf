@@ -35,8 +35,6 @@
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAITOH308">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/AbstractWork"/>
-        <owl:sameAs rdf:resource="http://purl.bdrc.io/resource/W0RKA0308"/>
-        <adm:sameAsBDRC rdf:resource="http://purl.bdrc.io/resource/W0RKA0308"/>
         <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/Inc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH308"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH308"/>
@@ -48,8 +46,6 @@
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH308">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
-        <owl:sameAs rdf:resource="http://purl.bdrc.io/resource/W4CZ5369_0308"/>
-        <adm:sameAsBDRC rdf:resource="http://purl.bdrc.io/resource/W4CZ5369_0308"/>
         <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/BoDbuCan"/>
         <bdo:workPartOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:workExpressionOf rdf:resource="http://purl.84000.co/resource/core/WATTOH308"/>
@@ -60,14 +56,11 @@
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH308">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/AbstractWork"/>
-        <owl:sameAs rdf:resource="http://purl.bdrc.io/resource/W0RKT0308"/>
-        <adm:sameAsBDRC rdf:resource="http://purl.bdrc.io/resource/W0RKT0308"/>
         <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/Bo"/>
         <bdo:workHasExpression rdf:resource="http://purl.84000.co/resource/core/WEKDTOH308"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH308"/>
         <skos:prefLabel xml:lang="bo">ཚེ་འཕོ་བ་ཇི་ལྟར་འགྱུར་བ་ཞུས་པ།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">ཚེ་འཕོ་བ་ཇི་ལྟར་འགྱུར་བ་ཞུས་པའི་མདོ།</skos:altLabel>
-        <bdo:workRefrKTsK rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">308</bdo:workRefrKTsK>
         <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh308.html"/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH308">
