@@ -1,4 +1,4 @@
-# 84000-data/pdf
+# 84000-data/rdf
 
 84000 rdf data
 
