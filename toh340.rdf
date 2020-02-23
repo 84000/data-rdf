@@ -41,10 +41,10 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH340"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH340"/>
         <skos:prefLabel xml:lang="sa-x-iast">Karmaśataka</skos:prefLabel>
-        <skos:altLabel xml:lang="sa-x-iast">Karmaśatakasūtra</skos:altLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Karmaśataka</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Hundred Deeds</skos:prefLabel>
-        <skos:altLabel xml:lang="en">The Sūtra of a Hundred Deeds</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh340.html"/>
+        <skos:altLabel xml:lang="en">The Hundred Deeds</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh340.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH340">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -55,7 +55,7 @@
         <bdo:workExpressionOf rdf:resource="http://purl.84000.co/resource/core/WATTOH340"/>
         <skos:prefLabel xml:lang="bo">ལས་བརྒྱ་པ།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">ལས་བརྒྱ་ཐམ་པ།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh340.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh340.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH340">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -68,6 +68,35 @@
         <skos:prefLabel xml:lang="bo">ལས་བརྒྱ་པ།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">ལས་བརྒྱ་ཐམ་པ།</skos:altLabel>
         <bdo:workRefrKTsK rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">340</bdo:workRefrKTsK>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh340.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh340.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH340">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/AbstractWork"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH340"/>
+        <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/En"/>
+        <skos:prefLabel xml:lang="en">The Hundred Deeds</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Hundred Deeds</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh340.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-199">
+                        <skos:prefLabel xml:lang="en">Dr. Geshe Lozang Jamspal</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-200">
+                        <skos:prefLabel xml:lang="en">Kaia Fischer</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
