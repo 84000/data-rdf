@@ -44,7 +44,7 @@
         <skos:altLabel xml:lang="sa-x-iast">Vinayavastu Pravrajyāvastu</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Chapter on Going Forth</skos:prefLabel>
         <skos:altLabel xml:lang="en">“The Chapter on Going Forth” from The Chapters on Monastic Discipline</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh1-1.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1-1.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH1-1">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -55,7 +55,7 @@
         <bdo:workExpressionOf rdf:resource="http://purl.84000.co/resource/core/WATTOH1-1"/>
         <skos:prefLabel xml:lang="bo">རབ་ཏུ་འབྱུང་བའི་གཞི།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འདུལ་བ་གཞི་ལས། རབ་ཏུ་འབྱུང་བའི་གཞི།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh1-1.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1-1.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH1-1">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -68,7 +68,7 @@
         <skos:prefLabel xml:lang="bo">རབ་ཏུ་འབྱུང་བའི་གཞི།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འདུལ་བ་གཞི་ལས། རབ་ཏུ་འབྱུང་བའི་གཞི།</skos:altLabel>
         <bdo:workRefrKTsK rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1-1</bdo:workRefrKTsK>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh1-1.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1-1.html"/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH1-1">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -77,7 +77,7 @@
         <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/En"/>
         <skos:prefLabel xml:lang="en">The Chapter on Going Forth</skos:prefLabel>
         <skos:altLabel xml:lang="en">“The Chapter on Going Forth” from The Chapters on Monastic Discipline</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh1-1.html"/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1-1.html"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
