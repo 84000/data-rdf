@@ -41,7 +41,7 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH286"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH286"/>
         <skos:prefLabel xml:lang="en">The Dedication “Protecting All Beings”</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh286.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh286.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH286">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -50,8 +50,9 @@
         <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/BoDbuCan"/>
         <bdo:workPartOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:workExpressionOf rdf:resource="http://purl.84000.co/resource/core/WATTOH286"/>
-        <skos:prefLabel xml:lang="bo">འགྲོ་བ་ཡོངས་སུ་སྐྱོབ་པར་བྱེད་པའི་ཡོངས་བསྔོ་བ། </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh286.html"/>
+        <skos:prefLabel xml:lang="bo">འགྲོ་བ་ཡོངས་སུ་སྐྱོབ་པར་བྱེད་པའི་ཡོངས་སུ་བསྔོ་བ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་འགྲོ་བ་ཐམས་ཅད་ཡོངས་སུ་སྐྱོབ་པར་བྱེད་པ་ཞེས་བྱ་བའི་ཡོངས་སུ་བསྔོ་བ།</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh286.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH286">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -61,8 +62,27 @@
         <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/Bo"/>
         <bdo:workHasExpression rdf:resource="http://purl.84000.co/resource/core/WEKDTOH286"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH286"/>
-        <skos:prefLabel xml:lang="bo">འགྲོ་བ་ཡོངས་སུ་སྐྱོབ་པར་བྱེད་པའི་ཡོངས་བསྔོ་བ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">འགྲོ་བ་ཡོངས་སུ་སྐྱོབ་པར་བྱེད་པའི་ཡོངས་སུ་བསྔོ་བ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་འགྲོ་བ་ཐམས་ཅད་ཡོངས་སུ་སྐྱོབ་པར་བྱེད་པ་ཞེས་བྱ་བའི་ཡོངས་སུ་བསྔོ་བ།</skos:altLabel>
         <bdo:workRefrKTsK rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">286</bdo:workRefrKTsK>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh286.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh286.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH286">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/AbstractWork"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH286"/>
+        <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/En"/>
+        <skos:prefLabel xml:lang="en">The Dedication “Protecting All Beings”</skos:prefLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh286.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-291">
+                        <skos:prefLabel xml:lang="en">Zsuzsa Majer</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
