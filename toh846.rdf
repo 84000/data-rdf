@@ -40,9 +40,8 @@
         <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/Inc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH846"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH846"/>
-        <skos:prefLabel xml:lang="sa-x-iast">[no Sanskrit title]</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Three Part Invitation Tantra</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh846.html"/>
+        <skos:prefLabel xml:lang="en">The Threefold Invocation Ritual</skos:prefLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh846.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH846">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -52,7 +51,7 @@
         <bdo:workPartOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:workExpressionOf rdf:resource="http://purl.84000.co/resource/core/WATTOH846"/>
         <skos:prefLabel xml:lang="bo">སྤྱན་འདྲེན་རྒྱུད་གསུམ་པ། </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh846.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh846.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH846">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -64,6 +63,24 @@
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH846"/>
         <skos:prefLabel xml:lang="bo">སྤྱན་འདྲེན་རྒྱུད་གསུམ་པ། </skos:prefLabel>
         <bdo:workRefrKTsK rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">847</bdo:workRefrKTsK>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh846.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh846.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH846">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/AbstractWork"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH846"/>
+        <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/En"/>
+        <skos:prefLabel xml:lang="en">The Threefold Invocation Ritual</skos:prefLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh846.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-274">
+                        <skos:prefLabel xml:lang="en">Adam Krug</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
