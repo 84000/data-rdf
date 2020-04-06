@@ -53,7 +53,8 @@
         <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/BoDbuCan"/>
         <bdo:workPartOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:workExpressionOf rdf:resource="http://purl.84000.co/resource/core/WATTOH197"/>
-        <skos:prefLabel xml:lang="bo">བདུད་རྩི་བརྗོད་པ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">བདུད་རྩི་བརྗོད་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་བདུད་རྩི་བརྗོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh197.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH197">
@@ -64,7 +65,8 @@
         <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/Bo"/>
         <bdo:workHasExpression rdf:resource="http://purl.84000.co/resource/core/WEKDTOH197"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH197"/>
-        <skos:prefLabel xml:lang="bo">བདུད་རྩི་བརྗོད་པ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">བདུད་རྩི་བརྗོད་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་བདུད་རྩི་བརྗོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <bdo:workRefrKTsK rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">197</bdo:workRefrKTsK>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh197.html"/>
     </rdf:Description><!--The English translation-->
