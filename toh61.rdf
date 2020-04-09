@@ -40,11 +40,11 @@
         <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/Inc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH61"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH61"/>
-        <skos:prefLabel xml:lang="sa-x-iast">pūrṇa­pari­pṛcchā­sūtra</skos:prefLabel>
-        <skos:altLabel xml:lang="sa-x-iast">ārya­pūrṇa­pari­pṛcchā­nāma­mahāyāna­sūtra</skos:altLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Pūrṇaparipṛcchāsūtra</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Āryapūrṇaparipṛcchānāmamahāyānasūtra</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Sūtra of Pūrṇa’s Questions</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra entitled: The Questions of Pūrṇa</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh61.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh61.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH61">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -55,7 +55,7 @@
         <bdo:workExpressionOf rdf:resource="http://purl.84000.co/resource/core/WATTOH61"/>
         <skos:prefLabel xml:lang="bo">གང་པོས་ཞུས་པའི་མདོ།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་པ་གང་གང་པོས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh61.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh61.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH61">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -68,6 +68,6 @@
         <skos:prefLabel xml:lang="bo">གང་པོས་ཞུས་པའི་མདོ།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་པ་གང་གང་པོས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <bdo:workRefrKTsK rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">61</bdo:workRefrKTsK>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh61.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh61.html"/>
     </rdf:Description>
 </rdf:RDF>
