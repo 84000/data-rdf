@@ -40,9 +40,11 @@
         <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/Inc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH511"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH511"/>
-        <skos:prefLabel xml:lang="sa-x-iast">dvādaśabuddhakasūtra</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Sūtra of the Twelve Buddhas</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh511.html"/>
+        <skos:prefLabel xml:lang="sa-x-iast">Dvādaśa­buddhaka</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Ārya­dvādaśa­buddhaka­nāma­mahāyānasūtra</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Twelve Buddhas</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Twelve Buddhas”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh511.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH511">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -51,8 +53,9 @@
         <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/BoDbuCan"/>
         <bdo:workPartOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:workExpressionOf rdf:resource="http://purl.84000.co/resource/core/WATTOH511"/>
-        <skos:prefLabel xml:lang="bo">སངས་རྒྱས་བཅུ་གཉིས་པའི་མདོ། </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh511.html"/>
+        <skos:prefLabel xml:lang="bo">སངས་རྒྱས་བཅུ་གཉིས་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་སངས་རྒྱས་བཅུ་གཉིས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh511.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH511">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -62,8 +65,28 @@
         <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/Bo"/>
         <bdo:workHasExpression rdf:resource="http://purl.84000.co/resource/core/WEKDTOH511"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH511"/>
-        <skos:prefLabel xml:lang="bo">སངས་རྒྱས་བཅུ་གཉིས་པའི་མདོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">སངས་རྒྱས་བཅུ་གཉིས་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་སངས་རྒྱས་བཅུ་གཉིས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <bdo:workRefrKTsK rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">273</bdo:workRefrKTsK>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh511.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh511.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH511">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/AbstractWork"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH511"/>
+        <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/En"/>
+        <skos:prefLabel xml:lang="en">The Twelve Buddhas</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Twelve Buddhas”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh511.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-274">
+                        <skos:prefLabel xml:lang="en">Adam Krug</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
