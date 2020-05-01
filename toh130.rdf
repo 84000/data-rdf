@@ -44,7 +44,7 @@
         <skos:altLabel xml:lang="sa-x-iast">Ārya­māyopama­samadhi­nāma­mahā­yāna­sūtra</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Illusory Absorption</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “The Illusory Absorption”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh130.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh130.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH130">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -55,7 +55,7 @@
         <bdo:workExpressionOf rdf:resource="http://purl.84000.co/resource/core/WATTOH130"/>
         <skos:prefLabel xml:lang="bo">སྒྱུ་མ་ལྟ་བུའི་ཏིང་ངེ་འཛིན།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་པ་སྒྱུ་མ་ལྟ་བུའི་ཏིང་ངེ་འཛིན་ཅེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh130.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh130.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH130">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -68,7 +68,7 @@
         <skos:prefLabel xml:lang="bo">སྒྱུ་མ་ལྟ་བུའི་ཏིང་ངེ་འཛིན།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་པ་སྒྱུ་མ་ལྟ་བུའི་ཏིང་ངེ་འཛིན་ཅེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <bdo:workRefrKTsK rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">130</bdo:workRefrKTsK>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh130.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh130.html"/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH130">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -77,7 +77,7 @@
         <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/En"/>
         <skos:prefLabel xml:lang="en">The Illusory Absorption</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “The Illusory Absorption”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh130.html"/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh130.html"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
