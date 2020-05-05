@@ -42,7 +42,7 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH282"/>
         <skos:prefLabel xml:lang="sa-x-iast">Śikṣātrayasūtra</skos:prefLabel>
         <skos:prefLabel xml:lang="en">The Sūtra on the Threefold Training</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh282.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh282.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH282">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -53,7 +53,7 @@
         <bdo:workExpressionOf rdf:resource="http://purl.84000.co/resource/core/WATTOH282"/>
         <skos:prefLabel xml:lang="bo">བསླབ་པ་གསུམ་གྱི་མདོ།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">བསླབ་པ་གསུམ་གྱི་མདོ།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh282.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh282.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH282">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -66,7 +66,7 @@
         <skos:prefLabel xml:lang="bo">བསླབ་པ་གསུམ་གྱི་མདོ།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">བསླབ་པ་གསུམ་གྱི་མདོ།</skos:altLabel>
         <bdo:workRefrKTsK rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">282</bdo:workRefrKTsK>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh282.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh282.html"/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH282">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -74,7 +74,7 @@
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH282"/>
         <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/En"/>
         <skos:prefLabel xml:lang="en">The Sūtra on the Threefold Training</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh282.html"/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh282.html"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
