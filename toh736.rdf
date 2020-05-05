@@ -40,9 +40,11 @@
         <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/Inc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH736"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH736"/>
-        <skos:prefLabel xml:lang="sa-x-iast">parṇaśabarīdhāraṇī</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Incantation of Parṇaśabarī</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh736.html"/>
+        <skos:prefLabel xml:lang="sa-x-iast">Parṇa­śavarī­dhāraṇī</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Ārya­parṇa­śavarī­nāma­dhāraṇī</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Dhāraṇī of Parṇaśavarī</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Dhāraṇī of Parṇaśavarī</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh736.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH736">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -51,8 +53,9 @@
         <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/BoDbuCan"/>
         <bdo:workPartOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:workExpressionOf rdf:resource="http://purl.84000.co/resource/core/WATTOH736"/>
-        <skos:prefLabel xml:lang="bo">རི་ཁྲོད་ལོ་མ་གྱོན་མའི་གཟུངས། </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh736.html"/>
+        <skos:prefLabel xml:lang="bo">རི་ཁྲོད་ལོ་མ་གྱོན་མའི་གཟུངས།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་མ་རི་ཁྲོད་ལོ་མ་གྱོན་མ་ཞེས་བྱ་བའི་གཟུངས།</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh736.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH736">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -62,8 +65,38 @@
         <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/Bo"/>
         <bdo:workHasExpression rdf:resource="http://purl.84000.co/resource/core/WEKDTOH736"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH736"/>
-        <skos:prefLabel xml:lang="bo">རི་ཁྲོད་ལོ་མ་གྱོན་མའི་གཟུངས། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">རི་ཁྲོད་ལོ་མ་གྱོན་མའི་གཟུངས།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་མ་རི་ཁྲོད་ལོ་མ་གྱོན་མ་ཞེས་བྱ་བའི་གཟུངས།</skos:altLabel>
         <bdo:workRefrKTsK rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">730</bdo:workRefrKTsK>
-        <adm:canonicalHtml rdf:resource="http://read.84000.co/translation/toh736.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh736.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH736">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/AbstractWork"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH736"/>
+        <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/En"/>
+        <skos:prefLabel xml:lang="en">The Dhāraṇī of Parṇaśavarī</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Dhāraṇī of Parṇaśavarī</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh736.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-74">
+                        <skos:prefLabel xml:lang="en">Ryan Damron</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-76">
+                        <skos:prefLabel xml:lang="en">Wiesiek Mical</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
