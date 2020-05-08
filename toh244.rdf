@@ -77,6 +77,16 @@
         <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/En"/>
         <skos:prefLabel xml:lang="en">Proper Dharma Conduct</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “Proper Dharma Conduct”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh244.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh244.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-77">
+                        <skos:prefLabel xml:lang="en">Yanneke Jitta</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
