@@ -42,7 +42,7 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH155"/>
         <skos:prefLabel xml:lang="sa-x-iast">Sāgara­nāga­rāja­paripṛcchā</skos:prefLabel>
         <skos:altLabel xml:lang="sa-x-iast">Ārya­sāgara­nāga­rāja­paripṛcchā­nāma­mahā­yana­sūtra</skos:altLabel>
-        <skos:prefLabel xml:lang="en">The Questions of the Nāga King Sāgara</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">The Questions of the Nāga King Sāgara (3)</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Questions of the Nāga King Sāgara”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh155.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
@@ -75,7 +75,7 @@
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/AbstractWork"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH155"/>
         <bdo:workLangScript rdf:resource="http://purl.bdrc.io/resource/En"/>
-        <skos:prefLabel xml:lang="en">The Questions of the Nāga King Sāgara</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">The Questions of the Nāga King Sāgara (3)</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Questions of the Nāga King Sāgara”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh155.html"/><!--Creators-->
         <bdo:creator>
