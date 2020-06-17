@@ -39,8 +39,8 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH142"/>
         <skos:prefLabel xml:lang="sa-x-iast">Avikalpapraveśadhāraṇī</skos:prefLabel>
         <skos:altLabel xml:lang="sa-x-iast">Āryāvikalpapraveśanāmadhāraṇī</skos:altLabel>
-        <skos:prefLabel xml:lang="en">The Dhāraṇī “Entering Into Non-conceptuality”</skos:prefLabel>
-        <skos:altLabel xml:lang="en">The Noble Dhāraṇī “Entering Into Non-conceptuality”</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Dhāraṇī “Entering into Nonconceptuality”</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Dhāraṇī “Entering into Nonconceptuality”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh142.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH142">
@@ -72,8 +72,8 @@
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH142"/>
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
-        <skos:prefLabel xml:lang="en">The Dhāraṇī “Entering Into Non-conceptuality”</skos:prefLabel>
-        <skos:altLabel xml:lang="en">The Noble Dhāraṇī “Entering Into Non-conceptuality”</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Dhāraṇī “Entering into Nonconceptuality”</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Dhāraṇī “Entering into Nonconceptuality”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh142.html"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
