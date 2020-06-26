@@ -39,7 +39,7 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH184"/>
         <skos:altLabel xml:lang="sa-x-iast">Āryabodhisattva­caryānirdeśa­nāmamahāyānasūtra</skos:altLabel>
         <skos:prefLabel xml:lang="en">Teaching the Practice of a Bodhisattva</skos:prefLabel>
-        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra "Teaching the Practice of a Bodhisattva</skos:altLabel>
+        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “Teaching the Practice of a Bodhisattva”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh184.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH184">
@@ -72,7 +72,7 @@
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH184"/>
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">Teaching the Practice of a Bodhisattva</skos:prefLabel>
-        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra "Teaching the Practice of a Bodhisattva</skos:altLabel>
+        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “Teaching the Practice of a Bodhisattva”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh184.html"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
