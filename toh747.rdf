@@ -67,5 +67,13 @@
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh747.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH747">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH747"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Bhūta­ḍāmara Tantra</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Great Sovereign Bhūtaḍāmara Tantra</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh747.html"/>
     </rdf:Description>
 </rdf:RDF>
