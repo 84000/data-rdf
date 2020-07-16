@@ -40,7 +40,7 @@
         <skos:prefLabel xml:lang="sa-x-iast">Tathāgata­jñāna­mudrā­samādhi</skos:prefLabel>
         <skos:altLabel xml:lang="sa-x-iast">Ārya­tathāgata­jñāna­mudrā­samādhi­nāma­mahā­yāna­sūtra</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Absorption of the Thus-Gone One’s Wisdom Seal</skos:prefLabel>
-        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra: The Absorption of the Thus-Gone One’s Wisdom Seal</skos:altLabel>
+        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “The Absorption of the Thus-Gone One’s Wisdom Seal”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh131.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH131">
@@ -73,7 +73,7 @@
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH131"/>
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">The Absorption of the Thus-Gone One’s Wisdom Seal</skos:prefLabel>
-        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra: The Absorption of the Thus-Gone One’s Wisdom Seal</skos:altLabel>
+        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “The Absorption of the Thus-Gone One’s Wisdom Seal”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh131.html"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
