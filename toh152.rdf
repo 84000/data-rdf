@@ -37,8 +37,8 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH152"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH152"/>
-        <skos:prefLabel xml:lang="sa-x-iast">Sāgaramatiparipṛcchā</skos:prefLabel>
-        <skos:altLabel xml:lang="sa-x-iast">Āryasāgaramatiparipṛcchānāmamahāyānasūtra</skos:altLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Sāgaramati­paripṛcchā</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Ārya­sāgaramati­paripṛcchā­nāma­mahā­yāna­sūtra</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Questions of Sāgaramati</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “The Questions of Sāgaramati”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh152.html"/>
@@ -49,8 +49,8 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH152"/>
-        <skos:prefLabel xml:lang="bo">བློ་གྲོས་རྒྱ་མཚོས་ཞུས་པ་</skos:prefLabel>
-        <skos:altLabel xml:lang="bo">འཕགས་པ་བློ་གྲོས་རྒྱ་མཚོས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་</skos:altLabel>
+        <skos:prefLabel xml:lang="bo">བློ་གྲོས་རྒྱ་མཚོས་ཞུས་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་བློ་གྲོས་རྒྱ་མཚོས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh152.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH152">
@@ -59,13 +59,31 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH152"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH152"/>
-        <skos:prefLabel xml:lang="bo">བློ་གྲོས་རྒྱ་མཚོས་ཞུས་པ་</skos:prefLabel>
-        <skos:altLabel xml:lang="bo">འཕགས་པ་བློ་གྲོས་རྒྱ་མཚོས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་</skos:altLabel>
+        <skos:prefLabel xml:lang="bo">བློ་གྲོས་རྒྱ་མཚོས་ཞུས་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་བློ་གྲོས་རྒྱ་མཚོས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>152</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh152.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH152">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH152"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Questions of Sāgaramati</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “The Questions of Sāgaramati”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh152.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-75">
+                        <skos:prefLabel xml:lang="en">Timothy Hinkle</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
