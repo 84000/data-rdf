@@ -37,7 +37,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH847"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH847"/>
-        <skos:prefLabel xml:lang="sa-x-iast">Ratnolkānāmadhāraṇī</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Ratnolkādhāraṇī</skos:prefLabel>
         <skos:altLabel xml:lang="sa-x-iast">Āryaratnolkānāmadhāraṇīmahāyānasūtra</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Dhāraṇī of the Jewel Torch</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Dhāraṇī of the Jewel Torch”</skos:altLabel>
