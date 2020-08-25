@@ -105,15 +105,5 @@
                 <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
             </bdo:AgentAsCreator>
         </bdo:creator>
-        <bdo:creator>
-            <bdo:AgentAsCreator>
-                <bdo:agent>
-                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-194">
-                        <skos:prefLabel xml:lang="en">Davis A. Baltz</skos:prefLabel>
-                    </bdo:Person>
-                </bdo:agent>
-                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
-            </bdo:AgentAsCreator>
-        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
