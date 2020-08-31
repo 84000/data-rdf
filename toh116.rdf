@@ -80,7 +80,6 @@
                 <bdo:agent>
                     <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-142">
                         <skos:prefLabel xml:lang="en">Dr. Peter Alan Roberts</skos:prefLabel>
-                        <bdo:sameAsVIAF rdf:resource="http://viaf.org/viaf/119623158"/>
                     </bdo:Person>
                 </bdo:agent>
                 <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
