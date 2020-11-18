@@ -46,7 +46,7 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH336"/>
-        <skos:prefLabel xml:lang="bo">འཁར་གསིལ་འཆང་བའི་ཀུན་སྤྱོད་པའི་ཆོ་ག</skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">འཁར་གསིལ་འཆང་བའི་ཀུན་སྤྱོད་པའི་ཆོ་ག །</skos:prefLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh336.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH336">
@@ -55,7 +55,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH336"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH336"/>
-        <skos:prefLabel xml:lang="bo">འཁར་གསིལ་འཆང་བའི་ཀུན་སྤྱོད་པའི་ཆོ་ག</skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">འཁར་གསིལ་འཆང་བའི་ཀུན་སྤྱོད་པའི་ཆོ་ག །</skos:prefLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>336</rdf:value>
