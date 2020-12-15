@@ -37,8 +37,10 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH106"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH106"/>
-        <skos:prefLabel xml:lang="sa-x-iast">saṃdhinirmocanasūtra</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">Unravelling the Intent</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Saṃdhi­nirmocana</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Āryasaṃdhinirmocana­nāmamahāyānasūtra</skos:altLabel>
+        <skos:prefLabel xml:lang="en">Unraveling the Intent</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Sūtra of the Great Vehicle “Unraveling the Intent”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh106.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH106">
@@ -47,7 +49,8 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH106"/>
-        <skos:prefLabel xml:lang="bo">དགོངས་པ་ངེས་འགྲེལ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">དགོངས་པ་ངེས་འགྲེལ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་དགོངས་པ་ངེས་པར་འགྲེལ་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh106.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH106">
@@ -56,7 +59,8 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH106"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH106"/>
-        <skos:prefLabel xml:lang="bo">དགོངས་པ་ངེས་འགྲེལ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">དགོངས་པ་ངེས་འགྲེལ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་དགོངས་པ་ངེས་པར་འགྲེལ་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>106</rdf:value>
