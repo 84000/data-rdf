@@ -37,9 +37,9 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH847"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH847"/>
-        <skos:prefLabel xml:lang="sa-x-iast">Ratnolkānāmadhāraṇī</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Ratnolkādhāraṇī</skos:prefLabel>
         <skos:altLabel xml:lang="sa-x-iast">Āryaratnolkānāmadhāraṇīmahāyānasūtra</skos:altLabel>
-        <skos:prefLabel xml:lang="en">The Dhāraṇi of the Jewel Torch</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">The Dhāraṇī of the Jewel Torch</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Dhāraṇī of the Jewel Torch”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh847.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
@@ -67,5 +67,23 @@
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh847.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH847">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH847"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Dhāraṇī of the Jewel Torch</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Dhāraṇī of the Jewel Torch”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh847.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-14">
+                        <skos:prefLabel xml:lang="en">David Jackson, Dr.</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>

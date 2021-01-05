@@ -38,7 +38,7 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH129"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH129"/>
         <skos:prefLabel xml:lang="sa-x-iast">Praśāntaviniścayaprātihāryasamādhi</skos:prefLabel>
-        <skos:altLabel xml:lang="sa-x-iast">Ārya­praśāntaviniścayaprātihārya­samādhi­mahāyānasūtra</skos:altLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Ārya­praśāntaviniścayaprātihārya­nāma­samādhi­mahāyānasūtra</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Absorption of the Miraculous Ascertainment of Peace</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “The Absorption of the Miraculous Ascertainment of Peace”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh129.html"/>
@@ -67,5 +67,23 @@
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh129.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH129">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH129"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Absorption of the Miraculous Ascertainment of Peace</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “The Absorption of the Miraculous Ascertainment of Peace”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh129.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-75">
+                        <skos:prefLabel xml:lang="en">Timothy Hinkle</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
