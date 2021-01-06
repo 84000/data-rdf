@@ -37,7 +37,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH147"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH147"/>
-        <skos:prefLabel xml:lang="sa-x-iast">Tathāgata­mahā­karuṇā­nirdeśa­sūtra</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Tathāgata­mahā­karuṇā­nirdeśa</skos:prefLabel>
         <skos:altLabel xml:lang="sa-x-iast">Ārya­tathāgata­mahākaruṇā­nirdeśanāma­mahāyāna­sūtra</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Teaching on the Great Compassion of the Tathāgata</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “The Teaching on the Great Compassion of the Tathāgata”</skos:altLabel>
@@ -49,8 +49,8 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH147"/>
-        <skos:prefLabel xml:lang="bo">དེ་བཞིན་གཤེགས་པའི་སྙིང་རྗེ་ཆེན་པོ་ངེས་པར་བསྟན་པ།</skos:prefLabel>
-        <skos:altLabel xml:lang="bo">འཕགས་པ་དེ་བཞིན་གཤེགས་པའི་སྙིང་རྗེ་ཆེན་པོ་ངེས་པར་བསྟན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
+        <skos:prefLabel xml:lang="bo">དེ་བཞིན་གཤེགས་པའི་སྙིང་རྗེ་ཆེན་པོ་ངེས་པར་བསྟན་པ་</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་དེ་བཞིན་གཤེགས་པའི་སྙིང་རྗེ་ཆེན་པོ་ངེས་པར་བསྟན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh147.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH147">
@@ -59,8 +59,8 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH147"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH147"/>
-        <skos:prefLabel xml:lang="bo">དེ་བཞིན་གཤེགས་པའི་སྙིང་རྗེ་ཆེན་པོ་ངེས་པར་བསྟན་པ།</skos:prefLabel>
-        <skos:altLabel xml:lang="bo">འཕགས་པ་དེ་བཞིན་གཤེགས་པའི་སྙིང་རྗེ་ཆེན་པོ་ངེས་པར་བསྟན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
+        <skos:prefLabel xml:lang="bo">དེ་བཞིན་གཤེགས་པའི་སྙིང་རྗེ་ཆེན་པོ་ངེས་པར་བསྟན་པ་</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་དེ་བཞིན་གཤེགས་པའི་སྙིང་རྗེ་ཆེན་པོ་ངེས་པར་བསྟན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>147</rdf:value>
