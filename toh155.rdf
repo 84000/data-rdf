@@ -89,7 +89,7 @@
             <bdo:AgentAsCreator>
                 <bdo:agent>
                     <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-175">
-                        <skos:prefLabel xml:lang="en">Rev. Dr. Chodrung Kunga</skos:prefLabel>
+                        <skos:prefLabel xml:lang="en">Rev. Dr. Ani Kunga Chodron</skos:prefLabel>
                     </bdo:Person>
                 </bdo:agent>
                 <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
