@@ -37,7 +37,8 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH97"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH97"/>
-        <skos:prefLabel xml:lang="sa-x-iast">mañjuśrīvikurvāṇaparivarta</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Mañjuśrī­vikurvāṇa­parivarta</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Ārya­mañjuśrī­vikurvāṇa­parivarta­nāma­mahā­yāna­sūtra</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Chapter on Mañjuśrī’s Magical Display</skos:prefLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh97.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
@@ -47,7 +48,8 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH97"/>
-        <skos:prefLabel xml:lang="bo">འཇམ་དཔལ་རྣམ་པར་འཕྲུལ་པའི་ལེའུ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">འཇམ་དཔལ་རྣམ་པར་འཕྲུལ་པའི་ལེའུ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་འཇམ་དཔལ་རྣམ་པར་འཕྲུལ་པའི་ལེའུ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh97.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH97">
@@ -56,12 +58,30 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH97"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH97"/>
-        <skos:prefLabel xml:lang="bo">འཇམ་དཔལ་རྣམ་པར་འཕྲུལ་པའི་ལེའུ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">འཇམ་དཔལ་རྣམ་པར་འཕྲུལ་པའི་ལེའུ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་འཇམ་དཔལ་རྣམ་པར་འཕྲུལ་པའི་ལེའུ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>97</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh97.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH97">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH97"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Chapter on Mañjuśrī’s Magical Display</skos:prefLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh97.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-60">
+                        <skos:prefLabel xml:lang="en">Benjamin Ewing</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
