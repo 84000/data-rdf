@@ -50,7 +50,7 @@
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH147"/>
         <skos:prefLabel xml:lang="bo">དེ་བཞིན་གཤེགས་པའི་སྙིང་རྗེ་ཆེན་པོ་ངེས་པར་བསྟན་པ། </skos:prefLabel>
-        <skos:altLabel xml:lang="bo">འཕགས་པ་དེ་བཞིན་གཤེགས་པའི་སྙིང་རྗེ་ཆེན་པོ་ངེས་པར་བསྟན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། </skos:altLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་དེ་བཞིན་གཤེགས་པའི་སྙིང་རྗེ་ཆེན་པོ་ངེས་པར་བསྟན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh147.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH147">
@@ -60,7 +60,7 @@
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH147"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH147"/>
         <skos:prefLabel xml:lang="bo">དེ་བཞིན་གཤེགས་པའི་སྙིང་རྗེ་ཆེན་པོ་ངེས་པར་བསྟན་པ། </skos:prefLabel>
-        <skos:altLabel xml:lang="bo">འཕགས་པ་དེ་བཞིན་གཤེགས་པའི་སྙིང་རྗེ་ཆེན་པོ་ངེས་པར་བསྟན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། </skos:altLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་དེ་བཞིན་གཤེགས་པའི་སྙིང་རྗེ་ཆེན་པོ་ངེས་པར་བསྟན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>147</rdf:value>
@@ -79,7 +79,7 @@
             <bdo:AgentAsCreator>
                 <bdo:agent>
                     <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-12">
-                        <skos:prefLabel xml:lang="en">Dr. Anne Burchardi</skos:prefLabel>
+                        <skos:prefLabel xml:lang="en">Anne Burchardi</skos:prefLabel>
                     </bdo:Person>
                 </bdo:agent>
                 <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
@@ -99,7 +99,7 @@
             <bdo:AgentAsCreator>
                 <bdo:agent>
                     <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-116">
-                        <skos:prefLabel xml:lang="en">Dr. Ulrich Pagel</skos:prefLabel>
+                        <skos:prefLabel xml:lang="en">Ulrich Pagel</skos:prefLabel>
                     </bdo:Person>
                 </bdo:agent>
                 <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
