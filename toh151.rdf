@@ -97,7 +97,7 @@
             <bdo:AgentAsCreator>
                 <bdo:agent>
                     <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-50">
-                        <skos:prefLabel xml:lang="en">Dr. Andreas Doctor</skos:prefLabel>
+                        <skos:prefLabel xml:lang="en">Andreas Doctor</skos:prefLabel>
                     </bdo:Person>
                 </bdo:agent>
                 <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
