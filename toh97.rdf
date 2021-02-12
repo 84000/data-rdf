@@ -40,6 +40,7 @@
         <skos:prefLabel xml:lang="sa-x-iast">Mañjuśrī­vikurvāṇa­parivarta</skos:prefLabel>
         <skos:altLabel xml:lang="sa-x-iast">Ārya­mañjuśrī­vikurvāṇa­parivarta­nāma­mahā­yāna­sūtra</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Chapter on Mañjuśrī’s Magical Display</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “The Chapter on Mañjuśrī’s Magical Display”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh97.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH97">
@@ -72,6 +73,7 @@
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH97"/>
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">The Chapter on Mañjuśrī’s Magical Display</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “The Chapter on Mañjuśrī’s Magical Display”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh97.html"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
