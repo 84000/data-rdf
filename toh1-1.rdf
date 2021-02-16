@@ -50,7 +50,7 @@
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH1-1"/>
         <skos:prefLabel xml:lang="bo">རབ་ཏུ་འབྱུང་བའི་གཞི།</skos:prefLabel>
-        <skos:altLabel xml:lang="bo">འདུལ་བ་གཞི་ལས། རབ་ཏུ་འབྱུང་བའི་གཞི།</skos:altLabel>
+        <skos:altLabel xml:lang="bo">འདུལ་བ་གཞི་ལས། རབ་ཏུ་འབྱུང་བའི་གཞི།</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1-1.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH1-1">
@@ -60,7 +60,7 @@
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH1-1"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH1-1"/>
         <skos:prefLabel xml:lang="bo">རབ་ཏུ་འབྱུང་བའི་གཞི།</skos:prefLabel>
-        <skos:altLabel xml:lang="bo">འདུལ་བ་གཞི་ལས། རབ་ཏུ་འབྱུང་བའི་གཞི།</skos:altLabel>
+        <skos:altLabel xml:lang="bo">འདུལ་བ་གཞི་ལས། རབ་ཏུ་འབྱུང་བའི་གཞི།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>1-1</rdf:value>
