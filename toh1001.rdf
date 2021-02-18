@@ -39,8 +39,8 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH1001"/>
         <skos:prefLabel xml:lang="sa-x-iast">Tārādhāraṇī</skos:prefLabel>
         <skos:altLabel xml:lang="sa-x-iast">Ārya­tārā­dhāraṇī</skos:altLabel>
-        <skos:prefLabel xml:lang="en">The Incantation of Tārā</skos:prefLabel>
-        <skos:altLabel xml:lang="en">The Noble Incantation of Tārā</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Dhāraṇī of Tārā</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Dhāraṇī of Tārā</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1001.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH1001">
@@ -72,8 +72,8 @@
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH1001"/>
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
-        <skos:prefLabel xml:lang="en">The Incantation of Tārā</skos:prefLabel>
-        <skos:altLabel xml:lang="en">The Noble Incantation of Tārā</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Dhāraṇī of Tārā</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Dhāraṇī of Tārā</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1001.html"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
