@@ -39,8 +39,8 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH730"/>
         <skos:prefLabel xml:lang="sa-x-iast">Tārā­svapratijñā­dhāraṇī</skos:prefLabel>
         <skos:altLabel xml:lang="sa-x-iast">Ārya­tārā­svapratijñā­nāma­dhāraṇī</skos:altLabel>
-        <skos:prefLabel xml:lang="en">The Incantation “Tārā’s Own Promise”</skos:prefLabel>
-        <skos:altLabel xml:lang="en">The Noble Incantation “Tārā’s Own Promise”</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Dhāraṇī “Tārā’s Own Promise”</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Dhāraṇī “Tārā’s Own Promise”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh730.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH730">
@@ -72,8 +72,8 @@
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH730"/>
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
-        <skos:prefLabel xml:lang="en">The Incantation “Tārā’s Own Promise”</skos:prefLabel>
-        <skos:altLabel xml:lang="en">The Noble Incantation “Tārā’s Own Promise”</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Dhāraṇī “Tārā’s Own Promise”</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Dhāraṇī “Tārā’s Own Promise”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh730.html"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
