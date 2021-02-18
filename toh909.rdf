@@ -39,8 +39,8 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH909"/>
         <skos:prefLabel xml:lang="sa-x-iast">Avalokiteśvara­mātā­dhāraṇī</skos:prefLabel>
         <skos:altLabel xml:lang="sa-x-iast">Āryāvalokiteśvara­mātā­nāma­dhāraṇī</skos:altLabel>
-        <skos:prefLabel xml:lang="en">The Incantation “The Mother of Avalokiteśvara”</skos:prefLabel>
-        <skos:altLabel xml:lang="en">The Noble Incantation “The Mother of the Avalokiteśvara”</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Dhāraṇī “The Mother of Avalokiteśvara”</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Dhāraṇī “The Mother of Avalokiteśvara”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh909.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH909">
@@ -72,8 +72,8 @@
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH909"/>
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
-        <skos:prefLabel xml:lang="en">The Incantation “The Mother of Avalokiteśvara”</skos:prefLabel>
-        <skos:altLabel xml:lang="en">The Noble Incantation “The Mother of the Avalokiteśvara”</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Dhāraṇī “The Mother of Avalokiteśvara”</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Dhāraṇī “The Mother of Avalokiteśvara”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh909.html"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
