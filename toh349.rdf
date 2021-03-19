@@ -37,7 +37,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH349"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH349"/>
-        <skos:prefLabel xml:lang="sa-x-iast">śrīsenāvadāna</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Śrīsenāvadāna</skos:prefLabel>
         <skos:prefLabel xml:lang="en">The Account of the Noble Deeds of Śrīsena</skos:prefLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh349.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
@@ -47,7 +47,7 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH349"/>
-        <skos:prefLabel xml:lang="bo">དཔལ་གྱི་སྡེའི་རྟོགས་པ་བརྗོད་པ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">དཔལ་གྱི་སྡེའི་རྟོགས་པ་བརྗོད་པ།</skos:prefLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh349.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH349">
@@ -56,12 +56,39 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH349"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH349"/>
-        <skos:prefLabel xml:lang="bo">དཔལ་གྱི་སྡེའི་རྟོགས་པ་བརྗོད་པ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">དཔལ་གྱི་སྡེའི་རྟོགས་པ་བརྗོད་པ།</skos:prefLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>349</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh349.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH349">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH349"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Account of the Noble Deeds of Śrīsena</skos:prefLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh349.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-123">
+                        <skos:prefLabel xml:lang="en">Ruth Gamble</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-126">
+                        <skos:prefLabel xml:lang="en">Tenzin Ringpapontsang</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
