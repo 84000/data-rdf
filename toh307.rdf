@@ -37,8 +37,10 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH307"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH307"/>
-        <skos:prefLabel xml:lang="sa-x-iast">āyuṣparyantasūtra</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">Sūtra on the Limits of Life's Duration</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Āyuḥparyanta</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Āyuḥparyanta­sūtra</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Limits of Life</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Sūtra on the Limits of Life</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh307.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH307">
@@ -47,7 +49,8 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH307"/>
-        <skos:prefLabel xml:lang="bo">ཚེའི་མཐའི་མདོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">ཚེའི་མཐའ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">ཚེའི་མཐའི་མདོ།</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh307.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH307">
@@ -56,12 +59,31 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH307"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH307"/>
-        <skos:prefLabel xml:lang="bo">ཚེའི་མཐའི་མདོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">ཚེའི་མཐའ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">ཚེའི་མཐའི་མདོ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>307</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh307.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH307">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH307"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Limits of Life</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Sūtra on the Limits of Life</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh307.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-23">
+                        <skos:prefLabel xml:lang="en">Bruno Galasek-Hul</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
