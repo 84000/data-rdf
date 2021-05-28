@@ -37,8 +37,10 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH276"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH276"/>
-        <skos:prefLabel xml:lang="sa-x-iast">buddhākṣepaṇasūtra</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Sūtra on Not Rejecting the Buddha</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Buddhākṣepaṇa</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Ārya­buddhākṣepaṇa­nāma­mahāyāna­sūtra</skos:altLabel>
+        <skos:prefLabel xml:lang="en">Not Forsaking the Buddha</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “Not Forsaking the Buddha”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh276.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH276">
@@ -47,7 +49,8 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH276"/>
-        <skos:prefLabel xml:lang="bo">སངས་རྒྱས་མི་སྤང་པའི་མདོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">སངས་རྒྱས་མི་སྤང་བ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་སངས་རྒྱས་མི་སྤང་བ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh276.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH276">
@@ -56,12 +59,31 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH276"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH276"/>
-        <skos:prefLabel xml:lang="bo">སངས་རྒྱས་མི་སྤང་པའི་མདོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">སངས་རྒྱས་མི་སྤང་བ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་སངས་རྒྱས་མི་སྤང་བ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>276</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh276.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH276">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH276"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">Not Forsaking the Buddha</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “Not Forsaking the Buddha”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh276.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-313">
+                        <skos:prefLabel xml:lang="en">Laura Dainty</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
