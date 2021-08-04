@@ -37,8 +37,10 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH125"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH125"/>
-        <skos:prefLabel xml:lang="sa-x-iast">suvarṇasūtra</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Golden Sūtra</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Suvarṇasūtra</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Ārya­suvarṇa­sūtra­nāma­mahāyāna­sūtra</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Gold Sūtra</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “The Gold Sūtra”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh125.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH125">
@@ -47,7 +49,8 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH125"/>
-        <skos:prefLabel xml:lang="bo">གསེར་གྱི་མདོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">གསེར་གྱི་མདོ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་གསེར་གྱི་མདོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh125.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH125">
@@ -56,12 +59,31 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH125"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH125"/>
-        <skos:prefLabel xml:lang="bo">གསེར་གྱི་མདོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">གསེར་གྱི་མདོ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་གསེར་གྱི་མདོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>125</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh125.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH125">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH125"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Gold Sūtra</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “The Gold Sūtra”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh125.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-175">
+                        <skos:prefLabel xml:lang="en">Rev. Dr. Ani Kunga Chodron</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
