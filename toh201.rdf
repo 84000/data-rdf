@@ -37,7 +37,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH201"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH201"/>
-        <skos:prefLabel xml:lang="sa-x-iast">Śraddhā­balādhānāvatāra­mudrā­sūtra</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Śraddhā­balādhānāvatāra­mudrā</skos:prefLabel>
         <skos:altLabel xml:lang="sa-x-iast">Ārya­śraddhā­balādhānāvatāra­mudrā­nāma­mahā­yāna­sūtra</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Seal of Engagement in Awakening the Power of Faith</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “The Seal of Engagement in Awakening the Power of Faith”</skos:altLabel>
