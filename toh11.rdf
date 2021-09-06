@@ -41,7 +41,7 @@
         <skos:altLabel xml:lang="sa-x-iast">Ārya­daśa­sāhasrikā­prajñā­pāramitā­nāma­mahā­yāna­sūtra</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Transcendent Perfection of Wisdom in Ten Thousand Lines</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Transcendent Perfection of Wisdom in Ten Thousand Lines”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh11.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh11.html?id="/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH11">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -51,7 +51,7 @@
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH11"/>
         <skos:prefLabel xml:lang="bo">ཤེས་ཕྱིན་ཁྲི་པ།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཁྲི་པ་ཤེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh11.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh11.html?id="/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH11">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -66,7 +66,7 @@
                 <rdf:value>11</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh11.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh11.html?id="/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH11">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -74,7 +74,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">The Transcendent Perfection of Wisdom in Ten Thousand Lines</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Transcendent Perfection of Wisdom in Ten Thousand Lines”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh11.html"/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh11.html?id="/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
