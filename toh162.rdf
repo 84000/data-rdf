@@ -37,9 +37,11 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH162"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH162"/>
-        <skos:prefLabel xml:lang="sa-x-iast">śrīvasuparipṛcchāsūtra</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Sūtra of the Questions of Śrīvasu</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh162.html"/>
+        <skos:prefLabel xml:lang="sa-x-iast">Śrīvasu­paripṛcchā</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Śrīvasu­paripṛcchā­nāma­mahāyāna­sūtra</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Questions of Śrīvasu</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “The Questions of Śrīvasu”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh162.html?id="/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH162">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -47,8 +49,9 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH162"/>
-        <skos:prefLabel xml:lang="bo">དཔལ་དབྱིག་གིས་ཞུས་པའི་མདོ། </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh162.html"/>
+        <skos:prefLabel xml:lang="bo">དཔལ་དབྱིག་གྱིས་ཞུས་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་དཔལ་དབྱིག་གྱིས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh162.html?id="/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH162">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -56,12 +59,31 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH162"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH162"/>
-        <skos:prefLabel xml:lang="bo">དཔལ་དབྱིག་གིས་ཞུས་པའི་མདོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">དཔལ་དབྱིག་གྱིས་ཞུས་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་དཔལ་དབྱིག་གྱིས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>162</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh162.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh162.html?id="/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH162">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH162"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Questions of Śrīvasu</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “The Questions of Śrīvasu”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh162.html?id="/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-28">
+                        <skos:prefLabel xml:lang="en">Khenpo Konchok Tamphel</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>

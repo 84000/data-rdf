@@ -37,9 +37,11 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH173"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH173"/>
-        <skos:prefLabel xml:lang="sa-x-iast">nairātmaparipṛcchāsūtra</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Sūtra of the Questions of Nairātma</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh173.html"/>
+        <skos:prefLabel xml:lang="sa-x-iast">Nairātmya­paripṛcchā</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Ārya­nairātmya­paripṛcchā­nāma­mahāyāna­sūtra</skos:altLabel>
+        <skos:prefLabel xml:lang="en">Questions on Selflessness</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “Questions on Selflessness”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh173.html?id="/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH173">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -47,8 +49,9 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH173"/>
-        <skos:prefLabel xml:lang="bo">བདག་མེད་པ་དྲིས་པའི་མདོ། </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh173.html"/>
+        <skos:prefLabel xml:lang="bo">བདག་མེད་པ་དྲིས་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་བདག་མེད་པ་དྲིས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh173.html?id="/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH173">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -56,12 +59,41 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH173"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH173"/>
-        <skos:prefLabel xml:lang="bo">བདག་མེད་པ་དྲིས་པའི་མདོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">བདག་མེད་པ་དྲིས་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་བདག་མེད་པ་དྲིས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>173</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh173.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh173.html?id="/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH173">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH173"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">Questions on Selflessness</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “Questions on Selflessness”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh173.html?id="/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-80">
+                        <skos:prefLabel xml:lang="en">Rebecca Hufen</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-82">
+                        <skos:prefLabel xml:lang="en">Shanshan Jia</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>

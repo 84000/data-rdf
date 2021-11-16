@@ -41,7 +41,7 @@
         <skos:altLabel xml:lang="sa-x-iast">Ārya­jñānolka­nāma­dhāraṇī­sarva­gatipariśodhanī</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Dhāraṇī of the Tathāgata Jñānolka</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Dhāraṇī of the Tathāgata Jñānolka that Purifies All Rebirths</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh522.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh522.html?id="/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH522">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -51,7 +51,7 @@
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH522"/>
         <skos:prefLabel xml:lang="bo">ཡེ་ཤེས་ཏ་ལ་ལའི་གཟུངས།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་པ་ཡེ་ཤེས་ཏ་ལ་ལ་ཞེས་བྱའི་གཟུངས་འགྲོ་བ་ཐམས་ཅད་ཡོངས་སུ་སྦྱོང་བ།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh522.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh522.html?id="/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH522">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -66,7 +66,7 @@
                 <rdf:value>521</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh522.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh522.html?id="/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH522">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -74,7 +74,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">The Dhāraṇī of the Tathāgata Jñānolka</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Dhāraṇī of the Tathāgata Jñānolka that Purifies All Rebirths</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh522.html"/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh522.html?id="/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>

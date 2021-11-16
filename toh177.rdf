@@ -37,9 +37,11 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH177"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH177"/>
-        <skos:prefLabel xml:lang="sa-x-iast">mañjuśrīnirdeśasūtra</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Sūtra of the Teaching of Mañjuśrī</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh177.html"/>
+        <skos:prefLabel xml:lang="sa-x-iast">Mañjuśrī­nirdeśa</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Ārya­mañjuśrī­nirdeśa­nāma­mahā­yāna­sūtra</skos:altLabel>
+        <skos:prefLabel xml:lang="en">Mañjuśrī’s Teaching</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “Mañjuśrī’s Teaching”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh177.html?id="/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH177">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -47,8 +49,9 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH177"/>
-        <skos:prefLabel xml:lang="bo">འཇམ་དཔལ་གྱིས་བསྟན་པའི་མདོ། </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh177.html"/>
+        <skos:prefLabel xml:lang="bo">འཇམ་དཔལ་གྱིས་བསྟན་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་འཇམ་དཔལ་གྱིས་བསྟན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh177.html?id="/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH177">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -56,12 +59,51 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH177"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH177"/>
-        <skos:prefLabel xml:lang="bo">འཇམ་དཔལ་གྱིས་བསྟན་པའི་མདོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">འཇམ་དཔལ་གྱིས་བསྟན་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་འཇམ་དཔལ་གྱིས་བསྟན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>177</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh177.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh177.html?id="/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH177">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH177"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">Mañjuśrī’s Teaching</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “Mañjuśrī’s Teaching”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh177.html?id="/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-95">
+                        <skos:prefLabel xml:lang="en">Celso Wilkinson</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-92">
+                        <skos:prefLabel xml:lang="en">Laura Goetz</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-96">
+                        <skos:prefLabel xml:lang="en">L.S. Summer</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>

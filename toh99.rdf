@@ -41,7 +41,7 @@
         <skos:altLabel xml:lang="sa-x-iast">Ārya­niṣṭhā­gata­bhagavajjñāna­vaipulya­sūtra­ratnānanta­nāma­mahāyāna­sūtra</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Precious Discourse on the Blessed One’s Extensive Wisdom That Leads to Infinite Certainty</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “The Precious Discourse on the Blessed One’s Extensive Wisdom That Leads to Infinite Certainty”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh99.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh99.html?id=&amp;part=none"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH99">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -51,7 +51,7 @@
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH99"/>
         <skos:prefLabel xml:lang="bo">བཅོམ་ལྡན་འདས་ཀྱི་ཡེ་ཤེས་རྒྱས་པའི་མདོ་སྡེ་རིན་པོ་ཆེ་མཐའ་ཡས་པ་མཐར་ཕྱིན་པ།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་པ་བཅོམ་ལྡན་འདས་ཀྱི་ཡེ་ཤེས་རྒྱས་པའི་མདོ་སྡེ་རིན་པོ་ཆེ་མཐའ་ཡས་པ་མཐར་ཕྱིན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh99.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh99.html?id=&amp;part=none"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH99">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -66,7 +66,7 @@
                 <rdf:value>99</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh99.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh99.html?id=&amp;part=none"/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH99">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -74,7 +74,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">The Precious Discourse on the Blessed One’s Extensive Wisdom That Leads to Infinite Certainty</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “The Precious Discourse on the Blessed One’s Extensive Wisdom That Leads to Infinite Certainty”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh99.html"/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh99.html?id=&amp;part=none"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
