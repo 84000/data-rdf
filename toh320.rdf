@@ -37,9 +37,11 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH320"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH320"/>
-        <skos:prefLabel xml:lang="sa-x-iast">tathāgatapratibimba­pratiṣṭhānuśaṃsasaṃvarṇana­dharmaparyāya</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Dharma Discourse Describing the Benefits of Establishing Representations of the Tathāgatha</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh320.html"/>
+        <skos:prefLabel xml:lang="sa-x-iast">Tathāgata­pratibimba­pratiṣṭhānuśaṃsa­saṃvarṇana</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Āryatathāgata­pratibimba­pratiṣṭhānuśaṃsa­saṃvarṇananāmadharmaparyāya</skos:altLabel>
+        <skos:prefLabel xml:lang="en">Describing the Benefits of Producing Representations of the Thus-Gone One</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Dharma Discourse “Describing the Benefits of Producing Representations of the Thus-Gone One”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh320.html?id=&amp;part=none"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH320">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -47,8 +49,9 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH320"/>
-        <skos:prefLabel xml:lang="bo">དེ་བཞིན་གཤེགས་པའི་གཟུགས་བརྙན་བཞག་པའི་ཕན་ཡོན་བརྗོད་པའི་ཆོས་ཀྱི་རྣམ་གྲངས། </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh320.html"/>
+        <skos:prefLabel xml:lang="bo">དེ་བཞིན་གཤེགས་པའི་གཟུགས་བརྙན་བཞག་པའི་ཕན་ཡོན་ཡང་དག་པར་བརྗོད་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་དེ་བཞིན་གཤེགས་པའི་གཟུགས་བརྙན་བཞག་པའི་ཕན་ཡོན་ཡང་དག་པར་བརྗོད་པ་ཞེས་བྱ་བའི་ཆོས་ཀྱི་རྣམ་གྲངས།</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh320.html?id=&amp;part=none"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH320">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -56,12 +59,31 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH320"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH320"/>
-        <skos:prefLabel xml:lang="bo">དེ་བཞིན་གཤེགས་པའི་གཟུགས་བརྙན་བཞག་པའི་ཕན་ཡོན་བརྗོད་པའི་ཆོས་ཀྱི་རྣམ་གྲངས། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">དེ་བཞིན་གཤེགས་པའི་གཟུགས་བརྙན་བཞག་པའི་ཕན་ཡོན་ཡང་དག་པར་བརྗོད་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་དེ་བཞིན་གཤེགས་པའི་གཟུགས་བརྙན་བཞག་པའི་ཕན་ཡོན་ཡང་དག་པར་བརྗོད་པ་ཞེས་བྱ་བའི་ཆོས་ཀྱི་རྣམ་གྲངས།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>320</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh320.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh320.html?id=&amp;part=none"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH320">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH320"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">Describing the Benefits of Producing Representations of the Thus-Gone One</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Dharma Discourse “Describing the Benefits of Producing Representations of the Thus-Gone One”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh320.html?id=&amp;part=none"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-292">
+                        <skos:prefLabel xml:lang="en">Krisztina Teleki</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
