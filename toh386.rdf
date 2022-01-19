@@ -37,9 +37,11 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH386"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH386"/>
-        <skos:prefLabel xml:lang="sa-x-iast">khasamatantra</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Tantra of Khasama</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh386.html"/>
+        <skos:prefLabel xml:lang="sa-x-iast">Khasama</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Śrī­khasama­tantrarāja</skos:altLabel>
+        <skos:prefLabel xml:lang="en">Equal to the Sky</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Glorious King of Tantras “Equal to the Sky”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh386.html?id=&amp;part="/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH386">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -47,8 +49,9 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH386"/>
-        <skos:prefLabel xml:lang="bo">ནམ་མཁའ་དང་མཉམ་པའི་རྒྱུད། </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh386.html"/>
+        <skos:prefLabel xml:lang="bo">ནམ་མཁའ་དང་མཉམ་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">དཔལ་ནམ་མཁའ་དང་མཉམ་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོ།</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh386.html?id=&amp;part="/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH386">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -56,12 +59,31 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH386"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH386"/>
-        <skos:prefLabel xml:lang="bo">ནམ་མཁའ་དང་མཉམ་པའི་རྒྱུད། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">ནམ་མཁའ་དང་མཉམ་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">དཔལ་ནམ་མཁའ་དང་མཉམ་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>386</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh386.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh386.html?id=&amp;part="/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH386">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH386"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">Equal to the Sky</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Glorious King of Tantras “Equal to the Sky”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh386.html?id=&amp;part="/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-63">
+                        <skos:prefLabel xml:lang="en">Daniel Patrick McNamara</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
