@@ -41,7 +41,7 @@
         <skos:altLabel xml:lang="sa-x-iast">Ārya­vaiśālī­praveśa­mahā­sūtra</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Mahāsūtra “On Entering the City of Vaiśālī”</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Mahāsūtra “On Entering the City of Vaiśālī”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh628.html?id="/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh628.html?id=&amp;part="/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH628">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -51,7 +51,7 @@
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH628"/>
         <skos:prefLabel xml:lang="bo">ཡངས་པའི་གྲོང་ཁྱེར་དུ་འཇུག་པའི་མདོ་ཆེན་པོ།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་པ་ཡངས་པའི་གྲོང་ཁྱེར་དུ་འཇུག་པའི་མདོ་ཆེན་པོ།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh628.html?id="/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh628.html?id=&amp;part="/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH628">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -66,7 +66,7 @@
                 <rdf:value>312</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh628.html?id="/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh628.html?id=&amp;part="/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH628">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -74,7 +74,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">The Mahāsūtra “On Entering the City of Vaiśālī”</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Mahāsūtra “On Entering the City of Vaiśālī”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh628.html?id="/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh628.html?id=&amp;part="/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
