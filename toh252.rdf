@@ -40,7 +40,7 @@
         <skos:prefLabel xml:lang="sa-x-iast">Catuṣkanirhāra</skos:prefLabel>
         <skos:altLabel xml:lang="sa-x-iast">Āryacatuṣkanirhāra­nāmamahāyānasūtra</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Fourfold Accomplishment</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh252.html?id=&amp;part=none"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh252.html?id=&amp;part="/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH252">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -50,7 +50,7 @@
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH252"/>
         <skos:prefLabel xml:lang="bo">བཞི་པ་སྒྲུབ་པ།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་པ་བཞི་པ་སྒྲུབ་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh252.html?id=&amp;part=none"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh252.html?id=&amp;part="/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH252">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -65,14 +65,14 @@
                 <rdf:value>252</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh252.html?id=&amp;part=none"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh252.html?id=&amp;part="/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH252">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH252"/>
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">The Fourfold Accomplishment</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh252.html?id=&amp;part=none"/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh252.html?id=&amp;part="/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
