@@ -41,7 +41,7 @@
         <skos:altLabel xml:lang="sa-x-iast">Ārya­bhagavān­bhaiṣajya­guru­vaiḍūrya­prabhasya pūrva­praṇidhāna­viśeṣa­vistāra­nāma­mahāyāna­sūtra</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Detailed Account of the Previous Aspirations of the Blessed Bhaiṣajya­guru­vaiḍūrya­prabha</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “The Detailed Account of the Previous Aspirations of the Blessed Bhaiṣajya­guru­vaiḍūrya­prabha”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh504.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh504.html?id=&amp;part="/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH504">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -51,7 +51,7 @@
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH504"/>
         <skos:prefLabel xml:lang="bo">བཅོམ་ལྡན་འདས་སྨན་གྱི་བླ་བཻ་ཌུརྱའི་འོད་གྱི་སྨོན་ལམ་གྱི་ཁྱད་པར་རྒྱས་པ།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་པ་བཅོམ་ལྡན་འདས་སྨན་གྱི་བླ་བཻ་ཌུརྱའི་འོད་གྱི་སྨོན་ལམ་གྱི་ཁྱད་པར་རྒྱས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh504.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh504.html?id=&amp;part="/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH504">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -66,7 +66,7 @@
                 <rdf:value>503</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh504.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh504.html?id=&amp;part="/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH504">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -74,7 +74,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">The Detailed Account of the Previous Aspirations of the Blessed Bhaiṣajya­guru­vaiḍūrya­prabha</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “The Detailed Account of the Previous Aspirations of the Blessed Bhaiṣajya­guru­vaiḍūrya­prabha”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh504.html"/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh504.html?id=&amp;part="/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
