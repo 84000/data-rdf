@@ -37,8 +37,8 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH72"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH72"/>
-        <skos:prefLabel xml:lang="sa-x-iast">Vīradattagṛhapatiparipṛcchā</skos:prefLabel>
-        <skos:altLabel xml:lang="sa-x-iast">Āryavīradattagṛhapatiparipṛcchānāmamahāyānasūtra</skos:altLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Vīradatta­gṛhapati­paripṛcchā</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Ārya­vīradatta­gṛhapati­paripṛcchā­nāma­mahāyāna­sūtra</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Questions of the Householder Vīradatta</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Questions of the Householder Vīradatta”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh72.html?id=&amp;part="/>
