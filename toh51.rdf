@@ -41,7 +41,7 @@
         <skos:altLabel xml:lang="sa-x-iast">Āryavarmavyūha­nirdeśanāma­mahāyānasūtra</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Teaching of the Armor Array</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “The Teaching of the Armor Array”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh51.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh51.html?id=&amp;part="/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH51">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -50,8 +50,8 @@
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH51"/>
         <skos:prefLabel xml:lang="bo">གོ་ཆའི་བཀོད་པ་བསྟན་པ།</skos:prefLabel>
-        <skos:altLabel xml:lang="bo">འཕགས་པ་གོ་ཆའི་བཀོད་པ་བསྟན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh51.html"/>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་གོ་ཆའི་བཀོད་པ་བསྟན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།་</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh51.html?id=&amp;part="/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH51">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -60,13 +60,13 @@
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH51"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH51"/>
         <skos:prefLabel xml:lang="bo">གོ་ཆའི་བཀོད་པ་བསྟན་པ།</skos:prefLabel>
-        <skos:altLabel xml:lang="bo">འཕགས་པ་གོ་ཆའི་བཀོད་པ་བསྟན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་</skos:altLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་གོ་ཆའི་བཀོད་པ་བསྟན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།་</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>51</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh51.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh51.html?id=&amp;part="/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH51">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -74,7 +74,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">The Teaching of the Armor Array</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “The Teaching of the Armor Array”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh51.html"/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh51.html?id=&amp;part="/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
