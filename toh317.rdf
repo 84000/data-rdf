@@ -41,7 +41,7 @@
         <skos:altLabel xml:lang="sa-x-iast">Artha­viniścaya­nāma­dharma­paryāya</skos:altLabel>
         <skos:prefLabel xml:lang="en">Distinctly Ascertaining the Meanings</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Dharma Instruction “Distinctly Ascertaining the Meanings”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh317.html?id="/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh317.html?id=&amp;part="/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH317">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -51,7 +51,7 @@
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH317"/>
         <skos:prefLabel xml:lang="bo">དོན་རྣམ་པར་ངེས་པ།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">དོན་རྣམ་པར་ངེས་པ་ཞེས་བྱ་བའི་ཆོས་ཀྱི་རྣམ་གྲངས།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh317.html?id="/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh317.html?id=&amp;part="/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH317">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -66,7 +66,7 @@
                 <rdf:value>317</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh317.html?id="/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh317.html?id=&amp;part="/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH317">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -74,7 +74,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">Distinctly Ascertaining the Meanings</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Dharma Instruction “Distinctly Ascertaining the Meanings”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh317.html?id="/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh317.html?id=&amp;part="/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
