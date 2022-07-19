@@ -37,7 +37,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH192"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH192"/>
-        <skos:prefLabel xml:lang="sa-x-iast">Ārya­kṣemavatī­vyākaraṇa­</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Kṣemavatī­vyākaraṇa­</skos:prefLabel>
         <skos:altLabel xml:lang="sa-x-iast">Ārya­kṣemavatī­vyākaraṇa­nāma­mahāyāna­sūtra</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Prophecy of Kṣemavatī</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Prophecy of Kṣemavatī”</skos:altLabel>
