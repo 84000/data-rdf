@@ -67,5 +67,23 @@
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh257.html?id=&amp;part="/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH257">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH257"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Quintessence of the Sun</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Very Extensive Sūtra “The Quintessence of the Sun”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh257.html?id=&amp;part="/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-59">
+                        <skos:prefLabel xml:lang="en">Benjamin Collet-Cassart</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
