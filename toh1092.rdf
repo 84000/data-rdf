@@ -37,9 +37,8 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH1092"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH1092"/>
-        <skos:prefLabel xml:lang="sa-x-iast">[no Sanskrit title]</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">Praise to the Goddess Sarasvatī</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1092.html"/>
+        <skos:prefLabel xml:lang="en">In Praise of the Glorious Goddess Sarasvatī</skos:prefLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1092.html?id=&amp;part="/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH1092">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -47,8 +46,9 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH1092"/>
-        <skos:prefLabel xml:lang="bo">ལྷ་མོ་སྒྲ་དབྱངས་ལ་བསྟོད་པ། </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1092.html"/>
+        <skos:prefLabel xml:lang="bo">དཔལ་ལྷ་མོ་སྒྲ་དབྱངས་ལ་བསྟོད་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">དཔལ་ལྷ་མོ་སྒྲ་དབྱངས་ལ་བསྟོད་པ།</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1092.html?id=&amp;part="/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH1092">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -56,12 +56,30 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH1092"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH1092"/>
-        <skos:prefLabel xml:lang="bo">ལྷ་མོ་སྒྲ་དབྱངས་ལ་བསྟོད་པ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">དཔལ་ལྷ་མོ་སྒྲ་དབྱངས་ལ་བསྟོད་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">དཔལ་ལྷ་མོ་སྒྲ་དབྱངས་ལ་བསྟོད་པ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>732</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1092.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1092.html?id=&amp;part="/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH1092">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH1092"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">In Praise of the Glorious Goddess Sarasvatī</skos:prefLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1092.html?id=&amp;part="/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-67">
+                        <skos:prefLabel xml:lang="en">Lowell Cook</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
