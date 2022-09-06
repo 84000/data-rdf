@@ -76,16 +76,6 @@
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
-                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-60">
-                        <skos:prefLabel xml:lang="en">Benjamin Ewing</skos:prefLabel>
-                    </bdo:Person>
-                </bdo:agent>
-                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
-            </bdo:AgentAsCreator>
-        </bdo:creator>
-        <bdo:creator>
-            <bdo:AgentAsCreator>
-                <bdo:agent>
                     <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-67">
                         <skos:prefLabel xml:lang="en">Lowell Cook</skos:prefLabel>
                     </bdo:Person>
