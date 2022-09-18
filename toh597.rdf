@@ -37,7 +37,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH597"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH597"/>
-        <skos:prefLabel xml:lang="sa-x-iast">Uṣṇīṣavijayā­nāma­dhāraṇī</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Uṣṇīṣavijayā­dhāraṇī</skos:prefLabel>
         <skos:altLabel xml:lang="sa-x-iast">Ārya­sarva­durgati­pariśodhaniuṣṇīṣavijayā­nāma­dhāraṇī</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Uṣṇīṣavijayā Dhāraṇī</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Uṣṇīṣavijayā Dhāraṇī That Purifies All Lower Rebirths</skos:altLabel>
@@ -49,7 +49,7 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH597"/>
-        <skos:prefLabel xml:lang="bo">གཙུག་ཏོར་རྣམ་པར་རྒྱལ་བ་ཞེས་བྱ་བའི་གཟུངས།</skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">གཙུག་ཏོར་རྣམ་པར་རྒྱལ་བའི་གཟུངས།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་པ་ངན་འགྲོ་ཐམས་ཅད་ཡོངས་སུ་སྦྱོང་བ་གཙུག་ཏོར་རྣམ་པར་རྒྱལ་བ་ཞེས་བྱ་བའི་གཟུངས།</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh597.html?id=&amp;part="/>
     </rdf:Description><!--The original Tibetan translation-->
@@ -59,7 +59,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH597"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH597"/>
-        <skos:prefLabel xml:lang="bo">གཙུག་ཏོར་རྣམ་པར་རྒྱལ་བ་ཞེས་བྱ་བའི་གཟུངས།</skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">གཙུག་ཏོར་རྣམ་པར་རྒྱལ་བའི་གཟུངས།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་པ་ངན་འགྲོ་ཐམས་ཅད་ཡོངས་སུ་སྦྱོང་བ་གཙུག་ཏོར་རྣམ་པར་རྒྱལ་བ་ཞེས་བྱ་བའི་གཟུངས།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
