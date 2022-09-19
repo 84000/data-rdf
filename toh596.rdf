@@ -37,8 +37,8 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH596"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH596"/>
-        <skos:prefLabel xml:lang="sa-x-iast">Uṣṇīṣavijayā­dhāraṇī kalpasahitā</skos:prefLabel>
-        <skos:altLabel xml:lang="sa-x-iast">Sarvatathāgata­uṣṇīṣavijayā­nāma­dhāraṇī kalpasahitā</skos:altLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Uṣṇīṣavijayā­dhāraṇīkalpasahitā</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Sarvatathāgata­uṣṇīṣavijayā­nāma­dhāraṇīkalpasahitā</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Uṣṇīṣavijayā Dhāraṇī with Its Ritual Manual</skos:prefLabel>
         <skos:altLabel xml:lang="en">Crown Victory of All Tathāgatas: The Uṣṇīṣavijayā Dhāraṇī with Its Ritual Manual</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh596.html?id=&amp;part="/>
