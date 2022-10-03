@@ -38,8 +38,8 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH595"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH595"/>
         <skos:prefLabel xml:lang="sa-x-iast">Uṣṇīṣavijayādhāraṇīkalpasahitā</skos:prefLabel>
-        <skos:altLabel xml:lang="sa-x-iast">Sarvatathāgata-uṣṇīṣavijayānāmadhāraṇīkalpasahitā</skos:altLabel>
-        <skos:prefLabel xml:lang="en">The Uṣṇīṣavijayā Dhāraṇī with Its Ritual Manual</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Sarvatathāgata­uṣṇīṣavijayānāmadhāraṇīkalpasahitā</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Uṣṇīṣavijayā Dhāraṇī with Its Ritual Manual (2)</skos:prefLabel>
         <skos:altLabel xml:lang="en">Crown Victory of All Tathāgatas: The Uṣṇīṣavijayā Dhāraṇī with Its Ritual Manual</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh595.html?id=&amp;part="/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
@@ -72,7 +72,7 @@
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH595"/>
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
-        <skos:prefLabel xml:lang="en">The Uṣṇīṣavijayā Dhāraṇī with Its Ritual Manual</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">The Uṣṇīṣavijayā Dhāraṇī with Its Ritual Manual (2)</skos:prefLabel>
         <skos:altLabel xml:lang="en">Crown Victory of All Tathāgatas: The Uṣṇīṣavijayā Dhāraṇī with Its Ritual Manual</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh595.html?id=&amp;part="/><!--Creators-->
         <bdo:creator>
