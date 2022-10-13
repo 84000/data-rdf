@@ -37,9 +37,9 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH728"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH728"/>
-        <skos:prefLabel xml:lang="sa-x-iast">tāradevīnāmāṣṭaśatakam</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Hundred and Eight Names of Tārā</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh728.html"/>
+        <skos:prefLabel xml:lang="sa-x-iast">Tāra­devī­nāmāṣṭaśataka</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">The Hundred and Eight Names of the Goddess Tārā</skos:prefLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh728.html?id=&amp;part="/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH728">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -47,8 +47,8 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH728"/>
-        <skos:prefLabel xml:lang="bo">སྒྲོལ་མའི་མཚན་བརྒྱ་རྩ་བརྒྱད་པ། </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh728.html"/>
+        <skos:prefLabel xml:lang="bo">ལྷ་མོ་སྒྲོལ་མའི་མཚན་བརྒྱ་རྩ་བརྒྱད་པ།</skos:prefLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh728.html?id=&amp;part="/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH728">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -56,12 +56,59 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH728"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH728"/>
-        <skos:prefLabel xml:lang="bo">སྒྲོལ་མའི་མཚན་བརྒྱ་རྩ་བརྒྱད་པ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">ལྷ་མོ་སྒྲོལ་མའི་མཚན་བརྒྱ་རྩ་བརྒྱད་པ།</skos:prefLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>722</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh728.html"/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh728.html?id=&amp;part="/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH728">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH728"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Hundred and Eight Names of the Goddess Tārā</skos:prefLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh728.html?id=&amp;part="/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-320">
+                        <skos:prefLabel xml:lang="en">Roger Espel Llima</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-56">
+                        <skos:prefLabel xml:lang="en">Alex Yiannopoulos</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-67">
+                        <skos:prefLabel xml:lang="en">Lowell Cook</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-319">
+                        <skos:prefLabel xml:lang="en">Ryan Conlon</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
