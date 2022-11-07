@@ -41,7 +41,7 @@
         <skos:altLabel xml:lang="sa-x-iast">Ārya­tārā­svapratijñā­nāma­dhāraṇī</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Dhāraṇī “Tārā’s Own Promise”</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Dhāraṇī “Tārā’s Own Promise”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1002.html?id=&amp;part="/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1002.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH1002">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -51,7 +51,7 @@
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH1002"/>
         <skos:prefLabel xml:lang="bo">སྒྲོལ་མ་རང་གིས་དམ་བཅས་པའི་གཟུངས།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་མ་སྒྲོལ་མ་རང་གིས་དམ་བཅས་པ་ཞེས་བྱ་བའི་གཟུངས།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1002.html?id=&amp;part="/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1002.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH1002">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -66,7 +66,7 @@
                 <rdf:value>724</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1002.html?id=&amp;part="/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1002.html"/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH1002">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -74,7 +74,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">The Dhāraṇī “Tārā’s Own Promise”</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Dhāraṇī “Tārā’s Own Promise”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1002.html?id=&amp;part="/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1002.html"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
