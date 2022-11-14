@@ -37,8 +37,10 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH232"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH232"/>
-        <skos:prefLabel xml:lang="sa-x-iast">mahāmeghasūtra</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Great Cloud Sūtra</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Mahāmegha</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Ārya­mahāmegha­nāma­mahāyāna­sūtra</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Great Cloud</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Mahāyāna Discourse “The Great Cloud”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh232.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH232">
@@ -47,7 +49,8 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH232"/>
-        <skos:prefLabel xml:lang="bo">སྤྲིན་ཆེན་པོའི་མདོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">སྤྲིན་ཆེན་པོ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་སྤྲིན་ཆེན་པོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh232.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH232">
@@ -56,12 +59,31 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH232"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH232"/>
-        <skos:prefLabel xml:lang="bo">སྤྲིན་ཆེན་པོའི་མདོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">སྤྲིན་ཆེན་པོ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་སྤྲིན་ཆེན་པོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>232</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh232.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH232">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH232"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Great Cloud</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Mahāyāna Discourse “The Great Cloud”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh232.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-214">
+                        <skos:prefLabel xml:lang="en">Joshua Capitanio</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
