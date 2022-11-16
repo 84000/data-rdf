@@ -39,9 +39,9 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH100"/>
         <skos:prefLabel xml:lang="sa-x-iast">Sarva­buddha­viṣayāvatāra­jñānālokālaṃkāra</skos:prefLabel>
         <skos:altLabel xml:lang="sa-x-iast">Ārya­sarva­buddha­viṣayāvatāra­jñānālokālaṃkāra­nāma­mahā­yāna­sūtra</skos:altLabel>
-        <skos:prefLabel xml:lang="en">The Ornament of the Light of Awareness that Enters the Domain of All Buddhas</skos:prefLabel>
-        <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Ornament of the Light of Awareness that Enters the Domain of All Buddhas”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh100.html?id=&amp;part="/>
+        <skos:prefLabel xml:lang="en">The Ornament of the Light of Awareness That Enters the Domain of All Buddhas</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Ornament of the Light of Awareness That Enters the Domain of All Buddhas”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh100.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH100">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -51,7 +51,7 @@
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH100"/>
         <skos:prefLabel xml:lang="bo">སངས་རྒྱས་ཐམས་ཅད་ཀྱི་ཡུལ་ལ་འཇུག་པའི་ཡེ་ཤེས་སྣང་བའི་རྒྱན།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་པ་སངས་རྒྱས་ཐམས་ཅད་ཀྱི་ཡུལ་ལ་འཇུག་པའི་ཡེ་ཤེས་སྣང་བའི་རྒྱན་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh100.html?id=&amp;part="/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh100.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH100">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -66,15 +66,15 @@
                 <rdf:value>100</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh100.html?id=&amp;part="/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh100.html"/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH100">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH100"/>
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
-        <skos:prefLabel xml:lang="en">The Ornament of the Light of Awareness that Enters the Domain of All Buddhas</skos:prefLabel>
-        <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Ornament of the Light of Awareness that Enters the Domain of All Buddhas”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh100.html?id=&amp;part="/><!--Creators-->
+        <skos:prefLabel xml:lang="en">The Ornament of the Light of Awareness That Enters the Domain of All Buddhas</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Ornament of the Light of Awareness That Enters the Domain of All Buddhas”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh100.html"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
