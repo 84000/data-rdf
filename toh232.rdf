@@ -39,7 +39,7 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH232"/>
         <skos:prefLabel xml:lang="sa-x-iast">Mahāmegha</skos:prefLabel>
         <skos:altLabel xml:lang="sa-x-iast">Ārya­mahāmegha­nāma­mahāyāna­sūtra</skos:altLabel>
-        <skos:prefLabel xml:lang="en">The Great Cloud</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">The Great Cloud (1)</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Great Cloud”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh232.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
@@ -72,7 +72,7 @@
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH232"/>
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
-        <skos:prefLabel xml:lang="en">The Great Cloud</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">The Great Cloud (1)</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Great Cloud”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh232.html"/><!--Creators-->
         <bdo:creator>
