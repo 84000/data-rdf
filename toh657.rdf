@@ -37,8 +37,10 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH657"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH657"/>
-        <skos:prefLabel xml:lang="sa-x-iast">mahāmegha</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Great Cloud</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Mahāmegha</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Āryamahāmegha</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Great Cloud (2)</skos:prefLabel>
+        <skos:altLabel xml:lang="en">From the Noble Mahāyāna Sūtra “The Great Cloud,” the Sixty-Fourth Chapter “The Array of Winds That Send Down Rainfall” Together with Its Ritual Manual [colophon title]</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh657.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH657">
@@ -47,7 +49,8 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH657"/>
-        <skos:prefLabel xml:lang="bo">སྤྲིན་ཆེན་པོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">སྤྲིན་ཆེན་པོ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་སྤྲིན་ཆེན་པོ་ཐེག་པ་ཆེན་པོའི་མདོ་ལས་ཆར་དབབ་པ་རླུང་གི་དཀྱིལ་འཁོར་གྱི་ལེའུ་ཞེས་བྱ་བ་དྲུག་ཅུ་རྩ་བཞི་པ་ཆོ་ག་དང་བཅས་པ།</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh657.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH657">
@@ -56,12 +59,31 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH657"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH657"/>
-        <skos:prefLabel xml:lang="bo">སྤྲིན་ཆེན་པོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">སྤྲིན་ཆེན་པོ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་སྤྲིན་ཆེན་པོ་ཐེག་པ་ཆེན་པོའི་མདོ་ལས་ཆར་དབབ་པ་རླུང་གི་དཀྱིལ་འཁོར་གྱི་ལེའུ་ཞེས་བྱ་བ་དྲུག་ཅུ་རྩ་བཞི་པ་ཆོ་ག་དང་བཅས་པ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>235</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh657.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH657">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH657"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Great Cloud (2)</skos:prefLabel>
+        <skos:altLabel xml:lang="en">From the Noble Mahāyāna Sūtra “The Great Cloud,” the Sixty-Fourth Chapter “The Array of Winds That Send Down Rainfall” Together with Its Ritual Manual [colophon title]</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh657.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-214">
+                        <skos:prefLabel xml:lang="en">Joshua Capitanio</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
