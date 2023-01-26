@@ -38,7 +38,7 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH673A"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH673A"/>
         <skos:prefLabel xml:lang="en">The Essence of Aparimitāyus</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh673a.html?id=&amp;part="/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh673a.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH673A">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -47,7 +47,7 @@
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH673A"/>
         <skos:prefLabel xml:lang="bo">ཚེ་དཔག་མེད་ཀྱི་སྙིང་པོ།</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh673a.html?id=&amp;part="/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh673a.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH673A">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -61,14 +61,14 @@
                 <rdf:value>611</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh673a.html?id=&amp;part="/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh673a.html"/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH673A">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH673A"/>
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">The Essence of Aparimitāyus</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh673a.html?id=&amp;part="/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh673a.html"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
