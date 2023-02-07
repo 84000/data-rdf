@@ -38,7 +38,7 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH309"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH309"/>
         <skos:prefLabel xml:lang="sa-x-iast">Anityatāsūtra</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Sūtra on Impermanence</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">The Sūtra on Impermanence (1)</skos:prefLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh309.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH309">
@@ -48,7 +48,6 @@
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH309"/>
         <skos:prefLabel xml:lang="bo">མི་རྟག་པ་ཉིད་ཀྱི་མདོ།</skos:prefLabel>
-        <skos:altLabel xml:lang="bo">མི་རྟག་པ་ཉིད་ཀྱི་མདོ།</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh309.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH309">
@@ -58,7 +57,6 @@
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH309"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH309"/>
         <skos:prefLabel xml:lang="bo">མི་རྟག་པ་ཉིད་ཀྱི་མདོ།</skos:prefLabel>
-        <skos:altLabel xml:lang="bo">མི་རྟག་པ་ཉིད་ཀྱི་མདོ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>309</rdf:value>
@@ -70,7 +68,7 @@
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH309"/>
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
-        <skos:prefLabel xml:lang="en">The Sūtra on Impermanence</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">The Sūtra on Impermanence (1)</skos:prefLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh309.html"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
