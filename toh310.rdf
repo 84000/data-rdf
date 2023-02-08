@@ -37,8 +37,8 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH310"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH310"/>
-        <skos:prefLabel xml:lang="sa-x-iast">anityatāsūtra</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Sūtra on Impermanence</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Anityatāsūtra</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">The Sūtra on Impermanence (2)</skos:prefLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh310.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH310">
@@ -47,7 +47,7 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH310"/>
-        <skos:prefLabel xml:lang="bo">མི་རྟག་པ་ཉིད་ཀྱི་མདོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">མི་རྟག་པ་ཉིད་ཀྱི་མདོ།</skos:prefLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh310.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH310">
@@ -56,12 +56,29 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH310"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH310"/>
-        <skos:prefLabel xml:lang="bo">མི་རྟག་པ་ཉིད་ཀྱི་མདོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">མི་རྟག་པ་ཉིད་ཀྱི་མདོ།</skos:prefLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>310</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh310.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH310">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH310"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Sūtra on Impermanence (2)</skos:prefLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh310.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-377">
+                        <skos:prefLabel xml:lang="en">Charles DiSimone</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
