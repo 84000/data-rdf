@@ -37,8 +37,10 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH892"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH892"/>
-        <skos:prefLabel xml:lang="sa-x-iast">mañjuśrīsvākhyātadhāraṇī</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Incantation, That Which Was Spoken by Mañjuśrī Himself</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Mañjuśrīsvākhyāta</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Ārya­mañjuśrīsvākhyāta­nāma­dhāraṇī</skos:altLabel>
+        <skos:prefLabel xml:lang="en">Spoken by Mañjuśrī Himself</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Dhāraṇī “Spoken by Mañjuśrī Himself”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh892.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH892">
@@ -47,7 +49,8 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH892"/>
-        <skos:prefLabel xml:lang="bo">འཇམ་དཔལ་གྱི་ཞལ་ནས་གསུངས་པའི་གཟུངས། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">འཇམ་དཔལ་གྱི་ཞལ་ནས་གསུངས་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་འཇམ་དཔལ་གྱི་ཞལ་ནས་གསུངས་པ་ཞེས་བྱ་བའི་གཟུངས།</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh892.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH892">
@@ -56,12 +59,51 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH892"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH892"/>
-        <skos:prefLabel xml:lang="bo">འཇམ་དཔལ་གྱི་ཞལ་ནས་གསུངས་པའི་གཟུངས། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">འཇམ་དཔལ་གྱི་ཞལ་ནས་གསུངས་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་འཇམ་དཔལ་གྱི་ཞལ་ནས་གསུངས་པ་ཞེས་བྱ་བའི་གཟུངས།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>543</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh892.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH892">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH892"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">Spoken by Mañjuśrī Himself</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Dhāraṇī “Spoken by Mañjuśrī Himself”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh892.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-375">
+                        <skos:prefLabel xml:lang="en">David Mellins</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-200">
+                        <skos:prefLabel xml:lang="en">Kaia Fischer</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-308">
+                        <skos:prefLabel xml:lang="en">Erin Sperry</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
