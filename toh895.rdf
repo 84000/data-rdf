@@ -37,8 +37,8 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH895"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH895"/>
-        <skos:prefLabel xml:lang="sa-x-iast">mañjuśrībhaṭṭāraka­prājñābuddhivardhanadhāraṇī</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Incantation, Mañjuśrī’s Increasing of Insight and Intelligence</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Mañjuśrī­bhaṭṭārakasya­ prajñā­buddhi­vardhana</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">The Noble Lord Mañjuśrī’s Dḥāraṇī for Increasing Insight and Intelligence</skos:prefLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh895.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH895">
@@ -47,7 +47,7 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH895"/>
-        <skos:prefLabel xml:lang="bo">འཇམ་དཔལ་གྱི་ཤེས་རབ་བློ་འཕེལ་བའི་གཟུངས། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">རྗེ་བཙུན་འཕགས་པ་འཇམ་དཔལ་གྱི་ཤེས་རབ་དང་བློ་འཕེལ་བ་ཞེས་བྱ་བའི་གཟུངས།</skos:prefLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh895.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH895">
@@ -56,12 +56,39 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH895"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH895"/>
-        <skos:prefLabel xml:lang="bo">འཇམ་དཔལ་གྱི་ཤེས་རབ་བློ་འཕེལ་བའི་གཟུངས། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">རྗེ་བཙུན་འཕགས་པ་འཇམ་དཔལ་གྱི་ཤེས་རབ་དང་བློ་འཕེལ་བ་ཞེས་བྱ་བའི་གཟུངས།</skos:prefLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>547</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh895.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH895">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH895"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Noble Lord Mañjuśrī’s Dḥāraṇī for Increasing Insight and Intelligence</skos:prefLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh895.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-375">
+                        <skos:prefLabel xml:lang="en">David Mellins</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-200">
+                        <skos:prefLabel xml:lang="en">Kaia Fischer</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
