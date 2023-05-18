@@ -37,8 +37,10 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH561"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH561"/>
-        <skos:prefLabel xml:lang="sa-x-iast">mahāpratisarāvidyārajñi</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Great Amulet, Queen of Incantations</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Mahāpratisarā</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Ārya­mahāprati­sarāvidyā­rājñī</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Great Amulet</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Queen of Incantations: The Great Amulet</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh561.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH561">
@@ -47,7 +49,8 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH561"/>
-        <skos:prefLabel xml:lang="bo">རིག་པའི་རྒྱལ་མོ་སོ་སོ་འབྲང་བ་ཆེན་མོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">སོ་སོར་སྦྲང་བ་ཆེན་མོ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་རིག་པའི་རྒྱལ་མོ་སོ་སོར་སྦྲང་བ་ཆེན་མོ།</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh561.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH561">
@@ -56,12 +59,31 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH561"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH561"/>
-        <skos:prefLabel xml:lang="bo">རིག་པའི་རྒྱལ་མོ་སོ་སོ་འབྲང་བ་ཆེན་མོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">སོ་སོར་སྦྲང་བ་ཆེན་མོ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་རིག་པའི་རྒྱལ་མོ་སོ་སོར་སྦྲང་བ་ཆེན་མོ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>556</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh561.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH561">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH561"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Great Amulet</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Queen of Incantations: The Great Amulet</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh561.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-51">
+                        <skos:prefLabel xml:lang="en">James Duncan Gentry</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
