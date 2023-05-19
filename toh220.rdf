@@ -37,8 +37,10 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH220"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH220"/>
-        <skos:prefLabel xml:lang="sa-x-iast">buddhapiṭakaduḥśīlanigrahasūtra</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">Eradicating Confused Discipline, a Scriptural Collection of the Buddha</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">buddha­piṭakaduḥ­śīlanigraha</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">buddha­piṭakaduḥ­śīlanigraha­nāma­mahāyānasūtra</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Collected Teachings of the Buddha: Eliminating Those with Corrupted Discipline</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Great Vehicle Discourse “The Collected Teachings of the Buddha: Eliminating Those with Corrupted Discipline”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh220.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH220">
@@ -47,7 +49,8 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH220"/>
-        <skos:prefLabel xml:lang="bo">སངས་རྒྱས་ཀྱི་སྡེ་སྣོད་ཚུལ་ཁྲིམས་འཆལ་པ་ཚར་གཅོད་པའི་མདོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">སངས་རྒྱས་ཀྱི་སྡེ་སྣོད་ཚུལ་ཁྲིམས་འཆལ་པ་ཚར་གཅོད་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">སངས་རྒྱས་ཀྱི་སྡེ་སྣོད་ཚུལ་ཁྲིམས་འཆལ་པ་ཚར་གཅོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh220.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH220">
@@ -56,12 +59,41 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH220"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH220"/>
-        <skos:prefLabel xml:lang="bo">སངས་རྒྱས་ཀྱི་སྡེ་སྣོད་ཚུལ་ཁྲིམས་འཆལ་པ་ཚར་གཅོད་པའི་མདོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">སངས་རྒྱས་ཀྱི་སྡེ་སྣོད་ཚུལ་ཁྲིམས་འཆལ་པ་ཚར་གཅོད་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">སངས་རྒྱས་ཀྱི་སྡེ་སྣོད་ཚུལ་ཁྲིམས་འཆལ་པ་ཚར་གཅོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>220</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh220.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH220">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH220"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Collected Teachings of the Buddha: Eliminating Those with Corrupted Discipline</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Great Vehicle Discourse “The Collected Teachings of the Buddha: Eliminating Those with Corrupted Discipline”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh220.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-59">
+                        <skos:prefLabel xml:lang="en">Benjamin Collet-Cassart</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-71">
+                        <skos:prefLabel xml:lang="en">Nika Jovic</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
