@@ -37,8 +37,8 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH9"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH9"/>
-        <skos:prefLabel xml:lang="sa-x-iast">Pañcaviṃśatisāhasrikāprajñāpāramitā</skos:prefLabel>
-        <skos:altLabel xml:lang="sa-x-iast">Āryapañcaviṃśatisāhasrikāprajñāpāramitā</skos:altLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Pañca­viṃśati­sāhasrikā­prajñā­pāramitā</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Ārya­pañca­viṃśati­sāhasrikā­prajñā­pāramitā</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Perfection of Wisdom in Twenty-Five Thousand Lines</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Perfection of Wisdom in Twenty-Five Thousand Lines</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh9.html"/>
@@ -67,5 +67,23 @@
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh9.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH9">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH9"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Perfection of Wisdom in Twenty-Five Thousand Lines</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Perfection of Wisdom in Twenty-Five Thousand Lines</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh9.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-140">
+                        <skos:prefLabel xml:lang="en">Gyurme Dorje</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
