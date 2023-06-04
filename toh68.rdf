@@ -39,8 +39,8 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH68"/>
         <skos:prefLabel xml:lang="sa-x-iast">Vinaya­viniścayopāli­paripṛcchā</skos:prefLabel>
         <skos:altLabel xml:lang="sa-x-iast">Ārya­vinaya­viniścayopāli­paripṛcchā­nāma­mahāyāna­sūtra</skos:altLabel>
-        <skos:prefLabel xml:lang="en">Ascertaining the Vinaya: Upāli’s Questions</skos:prefLabel>
-        <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “Ascertaining the Vinaya: Upāli’s Questions”</skos:altLabel>
+        <skos:prefLabel xml:lang="en">Determining the Vinaya: Upāli’s Questions</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “Determining the Vinaya: Upāli’s Questions”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh68.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH68">
@@ -72,8 +72,8 @@
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH68"/>
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
-        <skos:prefLabel xml:lang="en">Ascertaining the Vinaya: Upāli’s Questions</skos:prefLabel>
-        <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “Ascertaining the Vinaya: Upāli’s Questions”</skos:altLabel>
+        <skos:prefLabel xml:lang="en">Determining the Vinaya: Upāli’s Questions</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “Determining the Vinaya: Upāli’s Questions”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh68.html"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
