@@ -37,8 +37,8 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH220"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH220"/>
-        <skos:prefLabel xml:lang="sa-x-iast">Buddha­piṭakaduḥ­śīlanigraha</skos:prefLabel>
-        <skos:altLabel xml:lang="sa-x-iast">Buddha­piṭakaduḥ­śīlanigraha­nāma­mahāyānasūtra</skos:altLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Buddha­piṭaka­duḥśīla­nigraha</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Buddha­piṭaka­duḥśīla­nigraha­nāma­mahā­yāna­sūtra</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Collected Teachings of the Buddha: Overcoming Those with Corrupted Discipline</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Great Vehicle Discourse “The Collected Teachings of the Buddha: Overcoming Those with Corrupted Discipline”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh220.html"/>
