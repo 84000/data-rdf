@@ -39,8 +39,8 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH220"/>
         <skos:prefLabel xml:lang="sa-x-iast">Buddha­piṭaka­duḥśīla­nigraha</skos:prefLabel>
         <skos:altLabel xml:lang="sa-x-iast">Buddha­piṭaka­duḥśīla­nigraha­nāma­mahā­yāna­sūtra</skos:altLabel>
-        <skos:prefLabel xml:lang="en">The Collected Teachings of the Buddha: Overcoming Those with Corrupted Discipline</skos:prefLabel>
-        <skos:altLabel xml:lang="en">The Great Vehicle Discourse “The Collected Teachings of the Buddha: Overcoming Those with Corrupted Discipline”</skos:altLabel>
+        <skos:prefLabel xml:lang="en">Repudiating Those Who Violate the Discipline, the Buddha’s Collected Teachings</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Great Vehicle Discourse “Repudiating Those Who Violate the Discipline, the Buddha’s Collected Teachings”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh220.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH220">
@@ -72,8 +72,8 @@
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH220"/>
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
-        <skos:prefLabel xml:lang="en">The Collected Teachings of the Buddha: Overcoming Those with Corrupted Discipline</skos:prefLabel>
-        <skos:altLabel xml:lang="en">The Great Vehicle Discourse “The Collected Teachings of the Buddha: Overcoming Those with Corrupted Discipline”</skos:altLabel>
+        <skos:prefLabel xml:lang="en">Repudiating Those Who Violate the Discipline, the Buddha’s Collected Teachings</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Great Vehicle Discourse “Repudiating Those Who Violate the Discipline, the Buddha’s Collected Teachings”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh220.html"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
