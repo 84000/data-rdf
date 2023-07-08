@@ -37,7 +37,9 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH555"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH555"/>
-        <skos:prefLabel xml:lang="en">The Sūtra, The Supremely Victorious Golden Light</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Suvarṇa­prabhāsottamasūtra</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">The Sūtra of the Sublime Golden Light</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Supremely Victorious King of Sūtras, The Sublime Golden Light”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh555.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH555">
@@ -46,7 +48,8 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH555"/>
-        <skos:prefLabel xml:lang="bo">གསེར་འོད་མཆོག་ཏུ་རྣམ་པར་རྒྱལ་བའི་མདོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">གསེར་འོད་དམ་པའི་མདོ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་གསེར་འོད་དམ་པ་མཆོག་ཏུ་རྣམ་པར་རྒྱལ་བའི་མདོ་སྡེའི་རྒྱལ་པོ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh555.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH555">
@@ -55,12 +58,31 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH555"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH555"/>
-        <skos:prefLabel xml:lang="bo">གསེར་འོད་མཆོག་ཏུ་རྣམ་པར་རྒྱལ་བའི་མདོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">གསེར་འོད་དམ་པའི་མདོ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་གསེར་འོད་དམ་པ་མཆོག་ཏུ་རྣམ་པར་རྒྱལ་བའི་མདོ་སྡེའི་རྒྱལ་པོ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>550</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh555.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH555">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH555"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Sūtra of the Sublime Golden Light</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Supremely Victorious King of Sūtras, The Sublime Golden Light”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh555.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-142">
+                        <skos:prefLabel xml:lang="en">Peter Alan Roberts</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
