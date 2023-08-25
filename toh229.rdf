@@ -40,7 +40,7 @@
         <skos:prefLabel xml:lang="sa-x-iast">Tathāgata­saṅgīti</skos:prefLabel>
         <skos:altLabel xml:lang="sa-x-iast">Āryatathāgata­saṅgīti­nāmamahāyāna­sūtra</skos:altLabel>
         <skos:prefLabel xml:lang="en">Discussions of Thus-Gone Ones</skos:prefLabel>
-        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra: Discussions of Thus-Gone Ones</skos:altLabel>
+        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “Discussions of Thus-Gone Ones”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh229.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH229">
@@ -73,7 +73,7 @@
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH229"/>
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">Discussions of Thus-Gone Ones</skos:prefLabel>
-        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra: Discussions of Thus-Gone Ones</skos:altLabel>
+        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “Discussions of Thus-Gone Ones”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh229.html"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
