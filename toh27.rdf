@@ -37,8 +37,10 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH27"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH27"/>
-        <skos:prefLabel xml:lang="sa-x-iast">candragarbhaprajñāpāramitā</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Perfection of Wisdom for Candragarbha</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Candragarbha­prajñāpāramitā</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Ārya­candragarbha­prajñā­pāramitāmahāyāna­sūtra</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Candragarbha Perfection of Wisdom</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “The Candragarbha Perfection of Wisdom”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh27.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH27">
@@ -47,7 +49,8 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH27"/>
-        <skos:prefLabel xml:lang="bo">ཤེར་ཕྱིན་ཟླ་བའི་སྙིང་པོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">ཤེར་ཕྱིན་ཟླ་བའི་སྙིང་པོ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་ཟླ་བའི་སྙིང་པོ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh27.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH27">
@@ -56,12 +59,31 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH27"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH27"/>
-        <skos:prefLabel xml:lang="bo">ཤེར་ཕྱིན་ཟླ་བའི་སྙིང་པོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">ཤེར་ཕྱིན་ཟླ་བའི་སྙིང་པོ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་ཟླ་བའི་སྙིང་པོ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>27</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh27.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH27">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH27"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Candragarbha Perfection of Wisdom</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “The Candragarbha Perfection of Wisdom”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh27.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-395">
+                        <skos:prefLabel xml:lang="en">Sanjib Kumar Das</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
