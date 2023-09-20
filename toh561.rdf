@@ -49,8 +49,8 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH561"/>
-        <skos:prefLabel xml:lang="bo">སོ་སོར་སྦྲང་བ་ཆེན་མོ།</skos:prefLabel>
-        <skos:altLabel xml:lang="bo">འཕགས་པ་རིག་པའི་རྒྱལ་མོ་སོ་སོར་སྦྲང་བ་ཆེན་མོ།</skos:altLabel>
+        <skos:prefLabel xml:lang="bo">སོ་སོར་འབྲང་བ་ཆེན་མོ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་རིག་པའི་རྒྱལ་མོ་སོ་སོར་འབྲང་བ་ཆེན་མོ།</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh561.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH561">
@@ -59,8 +59,8 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH561"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH561"/>
-        <skos:prefLabel xml:lang="bo">སོ་སོར་སྦྲང་བ་ཆེན་མོ།</skos:prefLabel>
-        <skos:altLabel xml:lang="bo">འཕགས་པ་རིག་པའི་རྒྱལ་མོ་སོ་སོར་སྦྲང་བ་ཆེན་མོ།</skos:altLabel>
+        <skos:prefLabel xml:lang="bo">སོ་སོར་འབྲང་བ་ཆེན་མོ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་རིག་པའི་རྒྱལ་མོ་སོ་སོར་འབྲང་བ་ཆེན་མོ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>556</rdf:value>
