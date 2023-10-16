@@ -41,7 +41,7 @@
         <skos:altLabel xml:lang="sa-x-iast">Vinaya­vastuni Bhaiṣajya­vastu</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Chapter on Medicines</skos:prefLabel>
         <skos:altLabel xml:lang="en">“The Chapter on Medicines” from The Chapters on Monastic Discipline</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1-6.html?id=&amp;part="/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1-6.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH1-6">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -51,7 +51,7 @@
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH1-6"/>
         <skos:prefLabel xml:lang="bo">སྨན་གྱི་གཞི།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འདུལ་བ་གཞི་ལས། སྨན་གྱི་གཞི།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1-6.html?id=&amp;part="/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1-6.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH1-6">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -66,7 +66,7 @@
                 <rdf:value>1-6</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1-6.html?id=&amp;part="/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1-6.html"/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH1-6">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -74,7 +74,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">The Chapter on Medicines</skos:prefLabel>
         <skos:altLabel xml:lang="en">“The Chapter on Medicines” from The Chapters on Monastic Discipline</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1-6.html?id=&amp;part="/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1-6.html"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
