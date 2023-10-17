@@ -39,7 +39,7 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH285"/>
         <skos:prefLabel xml:lang="en">The Dedication “Fulfilling All Aspirations”</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Dedication “Fulfilling All Aspirations”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh285.html?id=&amp;part="/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh285.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH285">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -49,7 +49,7 @@
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH285"/>
         <skos:prefLabel xml:lang="bo">བསམ་པ་ཐམས་ཅད་ཡོངས་སུ་རྫོགས་པའི་ཡོངས་སུ་བསྔོ་བ།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་པ་བསམ་པ་ཐམས་ཅད་ཡོངས་སུ་རྫོགས་པར་བྱེད་པ་ཞེས་བྱ་བའི་ཡོངས་སུ་བསྔོ་བ།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh285.html?id=&amp;part="/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh285.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH285">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -64,7 +64,7 @@
                 <rdf:value>285</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh285.html?id=&amp;part="/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh285.html"/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH285">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -72,7 +72,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">The Dedication “Fulfilling All Aspirations”</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Dedication “Fulfilling All Aspirations”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh285.html?id=&amp;part="/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh285.html"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
