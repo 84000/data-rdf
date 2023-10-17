@@ -37,8 +37,8 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH330"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH330"/>
-        <skos:prefLabel xml:lang="sa-x-iast">alpadevatāsūtra</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Smaller Sūtra of the God</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Alpadevatāsūtra</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">The Shorter Devatā Sūtra</skos:prefLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh330.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH330">
@@ -47,7 +47,7 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH330"/>
-        <skos:prefLabel xml:lang="bo">ལྷའི་མདོ་ཉུང་ངུ་། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">ལྷའི་མདོ་ཉུང་ངུ།</skos:prefLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh330.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH330">
@@ -56,7 +56,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH330"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH330"/>
-        <skos:prefLabel xml:lang="bo">ལྷའི་མདོ་ཉུང་ངུ་། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">ལྷའི་མདོ་ཉུང་ངུ།</skos:prefLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>330</rdf:value>
