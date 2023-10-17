@@ -39,7 +39,7 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH333"/>
         <skos:prefLabel xml:lang="en">The Sūtra of Vasiṣṭha</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble “Sūtra of Vasiṣṭha”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh333.html?id=&amp;part="/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh333.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH333">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -49,7 +49,7 @@
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH333"/>
         <skos:prefLabel xml:lang="bo">གནས་འཇོག་གི་མདོ།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་པ་གནས་འཇོག་གི་མདོ་ཞེས་བྱ་བ།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh333.html?id=&amp;part="/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh333.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH333">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -64,7 +64,7 @@
                 <rdf:value>333</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh333.html?id=&amp;part="/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh333.html"/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH333">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -72,7 +72,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">The Sūtra of Vasiṣṭha</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble “Sūtra of Vasiṣṭha”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh333.html?id=&amp;part="/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh333.html"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
