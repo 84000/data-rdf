@@ -37,8 +37,10 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH988"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH988"/>
-        <skos:prefLabel xml:lang="sa-x-iast">mārīcīdhāraṇī</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Incantation of Mārīcī</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Mārīcīdhāraṇī</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Āryāmārīcīnāmadhāraṇī</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Mārīcī Dhāraṇī</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Mārīcī Dhāraṇī</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh988.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH988">
@@ -47,7 +49,8 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH988"/>
-        <skos:prefLabel xml:lang="bo">འོད་ཟེར་ཅན་གྱི་གཟུངས། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">འོད་ཟེར་ཅན་གྱི་གཟུངས །</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་མ་འོད་ཟེར་ཅན་ཞེས་བྱ་བའི་གཟུངས།</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh988.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH988">
@@ -56,7 +59,8 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH988"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH988"/>
-        <skos:prefLabel xml:lang="bo">འོད་ཟེར་ཅན་གྱི་གཟུངས། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">འོད་ཟེར་ཅན་གྱི་གཟུངས །</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་མ་འོད་ཟེར་ཅན་ཞེས་བྱ་བའི་གཟུངས།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>559</rdf:value>
