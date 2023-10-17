@@ -41,7 +41,7 @@
         <skos:altLabel xml:lang="sa-x-iast">Ārya­brahma­viśeṣacinti­paripṛcchānāma­mahāyāna­sūtra</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Questions of Brahma­viśeṣacintin</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “The Questions of Brahma­viśeṣacintin”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh160.html?id=&amp;part="/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh160.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH160">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -51,7 +51,7 @@
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH160"/>
         <skos:prefLabel xml:lang="bo">ཚངས་པ་ཁྱད་པར་སེམས་ཀྱིས་ཞུས་པ།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་པ་ཚངས་པ་ཁྱད་པར་སེམས་ཀྱིས་ཞུས་པ་ཞེས་བྱ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh160.html?id=&amp;part="/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh160.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH160">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -66,7 +66,7 @@
                 <rdf:value>160</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh160.html?id=&amp;part="/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh160.html"/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH160">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -74,12 +74,12 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">The Questions of Brahma­viśeṣacintin</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “The Questions of Brahma­viśeṣacintin”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh160.html?id=&amp;part="/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh160.html"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
                     <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-64">
-                        <skos:prefLabel xml:lang="en">Guillaume Avertin</skos:prefLabel>
+                        <skos:prefLabel xml:lang="en">Gyurme Avertin</skos:prefLabel>
                     </bdo:Person>
                 </bdo:agent>
                 <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
