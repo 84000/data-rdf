@@ -41,7 +41,7 @@
         <skos:altLabel xml:lang="sa-x-iast">Ārya­tathāgatānām buddha­kṣetraguṇokta­dharma­paryāya</skos:altLabel>
         <skos:prefLabel xml:lang="en">Expounding the Qualities of the Thus-Gone Ones’ Buddhafields</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Dharma Discourse: Expounding the Qualities of the Thus-Gone Ones’ Buddhafields</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh104.html?id=&amp;part="/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh104.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH104">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -51,7 +51,7 @@
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH104"/>
         <skos:prefLabel xml:lang="bo">སངས་རྒྱས་ཀྱི་ཞིང་གི་ཡོན་ཏན་བརྗོད་པའི་ཆོས་ཀྱི་རྣམ་གྲངས།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་པ་དེ་བཞིན་གཤེགས་པ་རྣམས་ཀྱི་སངས་རྒྱས་ཀྱི་ཞིང་གི་ཡོན་ཏན་བརྗོད་པའི་ཆོས་ཀྱི་རྣམ་གྲངས།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh104.html?id=&amp;part="/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh104.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH104">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -66,7 +66,7 @@
                 <rdf:value>104</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh104.html?id=&amp;part="/>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh104.html"/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH104">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -74,7 +74,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">Expounding the Qualities of the Thus-Gone Ones’ Buddhafields</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Dharma Discourse: Expounding the Qualities of the Thus-Gone Ones’ Buddhafields</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh104.html?id=&amp;part="/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh104.html"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
