@@ -49,7 +49,8 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH28"/>
-        <skos:prefLabel xml:lang="bo">འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཀུན་ཏུ་བཟང་པོ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">ཤེར་ཕྱིན་ཀུན་ཏུ་བཟང་པོ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཀུན་ཏུ་བཟང་པོ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh28.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH28">
@@ -58,7 +59,8 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH28"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH28"/>
-        <skos:prefLabel xml:lang="bo">འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཀུན་ཏུ་བཟང་པོ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">ཤེར་ཕྱིན་ཀུན་ཏུ་བཟང་པོ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཀུན་ཏུ་བཟང་པོ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>28</rdf:value>
