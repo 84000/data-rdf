@@ -37,8 +37,10 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH1085"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH1085"/>
-        <skos:prefLabel xml:lang="sa-x-iast">mahākāladhāraṇī</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Incantation of Mahākāla</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Śrī­mahākālanāma­dhāraṇī</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Ārya­śrī­mahākālanāma­dhāraṇī</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Dhāraṇī of Glorious Mahākāla</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Dhāraṇī of Glorious Mahākāla</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1085.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH1085">
@@ -47,7 +49,8 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH1085"/>
-        <skos:prefLabel xml:lang="bo">མགོན་པོ་ནག་པོའི་གཟུངས། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">དཔལ་དཔལ་མགོན་པོ་ནག་པོ་ཞེས་བྱ་བའི་གཟུངས།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་དཔལ་མགོན་པོ་ནག་པོ་ཞེས་བྱ་བའི་གཟུངས།</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1085.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH1085">
@@ -56,12 +59,31 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH1085"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH1085"/>
-        <skos:prefLabel xml:lang="bo">མགོན་པོ་ནག་པོའི་གཟུངས། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">དཔལ་དཔལ་མགོན་པོ་ནག་པོ་ཞེས་བྱ་བའི་གཟུངས།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་དཔལ་མགོན་པོ་ནག་པོ་ཞེས་བྱ་བའི་གཟུངས།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>662</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1085.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH1085">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH1085"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Dhāraṇī of Glorious Mahākāla</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Dhāraṇī of Glorious Mahākāla</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1085.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-274">
+                        <skos:prefLabel xml:lang="en">Adam Krug</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
