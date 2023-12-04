@@ -37,8 +37,10 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH37"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH37"/>
-        <skos:prefLabel xml:lang="sa-x-iast">pañcaśikṣānusaṃsasūtra</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">Sūtra on the Benefits of the Five Precepts</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Pañcaśikṣānu­śaṃsa</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Pañcaśikṣānu­śaṃsasūtra</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Benefits of the Five Precepts</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Sūtra on the Benefits of the Five Precepts</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh37.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH37">
@@ -47,7 +49,8 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH37"/>
-        <skos:prefLabel xml:lang="bo">བསླབ་པ་ལྔའི་ཕན་ཡོན་གྱི་མདོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">བསླབ་པ་ལྔའི་ཕན་ཡོན།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">བསླབ་པ་ལྔའི་ཕན་ཡོན་གྱི་མདོ།</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh37.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH37">
@@ -56,7 +59,8 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH37"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH37"/>
-        <skos:prefLabel xml:lang="bo">བསླབ་པ་ལྔའི་ཕན་ཡོན་གྱི་མདོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">བསླབ་པ་ལྔའི་ཕན་ཡོན།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">བསླབ་པ་ལྔའི་ཕན་ཡོན་གྱི་མདོ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>37</rdf:value>
