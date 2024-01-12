@@ -37,8 +37,8 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH248"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH248"/>
-        <skos:prefLabel xml:lang="sa-x-iast">Bodhisattva­pratimokṣa­catuṣkanirhāra</skos:prefLabel>
-        <skos:altLabel xml:lang="sa-x-iast">Bodhisattva­pratimokṣa­catuṣkanirhāra­nāma­mahāyāna­sūtra</skos:altLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Bodhisattva­prātimokṣa­catuṣkanirhāra</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Bodhisattva­prātimokṣa­catuṣkanirhāra­nāma­mahāyāna­sūtra</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Accomplishment of the Sets of Four Qualities: The Bodhisattvas’ Prātimokṣa</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Great Vehicle Sūtra “The Accomplishment of the Sets of Four Qualities: The Bodhisattvas’ Prātimokṣa”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh248.html"/>
@@ -67,5 +67,23 @@
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh248.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH248">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH248"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Accomplishment of the Sets of Four Qualities: The Bodhisattvas’ Prātimokṣa</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Great Vehicle Sūtra “The Accomplishment of the Sets of Four Qualities: The Bodhisattvas’ Prātimokṣa”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh248.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-66">
+                        <skos:prefLabel xml:lang="en">Joseph McClellan</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
