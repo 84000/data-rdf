@@ -37,10 +37,10 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH566"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH566"/>
-        <skos:prefLabel xml:lang="sa-x-iast">Āryāmārīcyai maṇḍalavidhi</skos:prefLabel>
-        <skos:altLabel xml:lang="sa-x-iast">Āryāmārīcyai maṇḍalavidhi mārīcyai jātadvādaśastasrād uddhṛtaṃ kalpahṛdayasaptaśata nāma</skos:altLabel>
-        <skos:prefLabel xml:lang="en">A Guide to Noble Mārīcī’s Maṇḍala Rites</skos:prefLabel>
-        <skos:altLabel xml:lang="en">A Guide to Noble Mārīcī’s Maṇḍala Rites: A Ritual Manual Consisting of Seven Hundred Essential Lines from the Twelve-Thousand Line Tantra of Mārīcī’s Arising</skos:altLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Ārya­mārīcī­maṇḍalavidhi</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Ārya­mārīcī­maṇḍalavidhi mārīcījātadvādaśasahasrād uddhṛtakalpa­hṛdaya­saptaśatanāma</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Maṇḍala Rites of Noble Mārīcī</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Maṇḍala Rites of Noble Mārīcī: A Ritual Manual Consisting of Seven Hundred Essential Lines from the Twelve-Thousand Line Tantra of Mārīcī’s Arising</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh566.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH566">
@@ -67,5 +67,23 @@
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh566.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH566">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH566"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Maṇḍala Rites of Noble Mārīcī</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Maṇḍala Rites of Noble Mārīcī: A Ritual Manual Consisting of Seven Hundred Essential Lines from the Twelve-Thousand Line Tantra of Mārīcī’s Arising</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh566.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-274">
+                        <skos:prefLabel xml:lang="en">Adam Krug</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
