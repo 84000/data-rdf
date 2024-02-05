@@ -38,7 +38,7 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH564"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH564"/>
         <skos:prefLabel xml:lang="sa-x-iast">Mārīcīdhāraṇī</skos:prefLabel>
-        <skos:altLabel xml:lang="sa-x-iast">Āryāmārīcīnāmadhāraṇī</skos:altLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Ārya­mārīcī­nāmadhāraṇī</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Mārīcī Dhāraṇī</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Mārīcī Dhāraṇī</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh564.html"/>
@@ -49,7 +49,7 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH564"/>
-        <skos:prefLabel xml:lang="bo">འོད་ཟེར་ཅན་གྱི་གཟུངས །</skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">འོད་ཟེར་ཅན་གྱི་གཟུངས།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་མ་འོད་ཟེར་ཅན་ཞེས་བྱ་བའི་གཟུངས།</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh564.html"/>
     </rdf:Description><!--The original Tibetan translation-->
@@ -59,7 +59,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH564"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH564"/>
-        <skos:prefLabel xml:lang="bo">འོད་ཟེར་ཅན་གྱི་གཟུངས །</skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">འོད་ཟེར་ཅན་གྱི་གཟུངས།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་མ་འོད་ཟེར་ཅན་ཞེས་བྱ་བའི་གཟུངས།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
@@ -67,5 +67,23 @@
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh564.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH564">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH564"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Mārīcī Dhāraṇī</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Mārīcī Dhāraṇī</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh564.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-274">
+                        <skos:prefLabel xml:lang="en">Adam Krug</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
