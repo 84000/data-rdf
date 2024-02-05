@@ -37,7 +37,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH565"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH565"/>
-        <skos:prefLabel xml:lang="sa-x-iast">Māyāmārīcījātatantrād udhṛtaṃ kalporājā nāma</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Māyāmārīcījātatantrād uddhṛtakalparāja</skos:prefLabel>
         <skos:prefLabel xml:lang="en">The King of Ritual Manuals from the Tantra of Māyā Mārīcī’s Arising</skos:prefLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh565.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
@@ -63,5 +63,22 @@
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh565.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH565">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH565"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The King of Ritual Manuals from the Tantra of Māyā Mārīcī’s Arising</skos:prefLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh565.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-274">
+                        <skos:prefLabel xml:lang="en">Adam Krug</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
