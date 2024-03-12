@@ -37,8 +37,10 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH75"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH75"/>
-        <skos:prefLabel xml:lang="sa-x-iast">gaṅgottaraparipṛcchāsūtra</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Sūtra of Gaṅgottara's Questions</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Gaṅgottara­pari­pṛcchā</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Ārya­gaṅgottara­pari­pṛcchānāma­mahāyāna­sūtra</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Questions of Gaṅgottarā</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Questions of Gaṅgottarā”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh75.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH75">
@@ -47,7 +49,8 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH75"/>
-        <skos:prefLabel xml:lang="bo">གང་གཱའི་ཞུས་པའི་མདོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">གང་གཱའི་མཆོག་གིས་ཞུས་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་གང་གཱའི་མཆོག་གིས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh75.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH75">
@@ -56,12 +59,31 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH75"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH75"/>
-        <skos:prefLabel xml:lang="bo">གང་གཱའི་ཞུས་པའི་མདོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">གང་གཱའི་མཆོག་གིས་ཞུས་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་གང་གཱའི་མཆོག་གིས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>75</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh75.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH75">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH75"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Questions of Gaṅgottarā</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Questions of Gaṅgottarā”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh75.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-434">
+                        <skos:prefLabel xml:lang="en">Sophie McGrath</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
