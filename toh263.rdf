@@ -37,8 +37,10 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH263"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH263"/>
-        <skos:prefLabel xml:lang="sa-x-iast">samyagācāravṛtta­gaganavarṇavinaya­kṣāntisūtra</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Sūtra on Patience with the Discipline Through Practicing in a Way that is Like The Colour of the Sky</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Samyagācāra­vṛtta­gaganavarṇavina­yakṣānti</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Ārya­samyagācāra­vṛtta­gaganavarṇavina­yakṣānti­nāma­mahāyāna­sūtra</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Acceptance That Tames Beings with the Sky-Colored Method of Perfect Conduct</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “The Acceptance That Tames Beings with the Sky-Colored Method of Perfect Conduct”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh263.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH263">
@@ -47,7 +49,8 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH263"/>
-        <skos:prefLabel xml:lang="bo">ཡང་དག་པར་སྤྱོད་ཚུལ་ནམ་མཁའི་མདོག་གིས་འདུལ་བའི་བཟོད་པའི་མདོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">ཡང་དག་པར་སྤྱོད་པའི་ཚུལ་ནམ་མཁའི་མདོག་གིས་འདུལ་བའི་བཟོད་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་ཡང་དག་པར་སྤྱོད་པའི་ཚུལ་ནམ་མཁའི་མདོག་གིས་འདུལ་བའི་བཟོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh263.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH263">
@@ -56,12 +59,31 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH263"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH263"/>
-        <skos:prefLabel xml:lang="bo">ཡང་དག་པར་སྤྱོད་ཚུལ་ནམ་མཁའི་མདོག་གིས་འདུལ་བའི་བཟོད་པའི་མདོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">ཡང་དག་པར་སྤྱོད་པའི་ཚུལ་ནམ་མཁའི་མདོག་གིས་འདུལ་བའི་བཟོད་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་ཡང་དག་པར་སྤྱོད་པའི་ཚུལ་ནམ་མཁའི་མདོག་གིས་འདུལ་བའི་བཟོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>263</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh263.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH263">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH263"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Acceptance That Tames Beings with the Sky-Colored Method of Perfect Conduct</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Great Vehicle Sūtra “The Acceptance That Tames Beings with the Sky-Colored Method of Perfect Conduct”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh263.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-59">
+                        <skos:prefLabel xml:lang="en">Benjamin Collet-Cassart</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
