@@ -40,7 +40,7 @@
         <skos:prefLabel xml:lang="sa-x-iast">Jñānakasūtra</skos:prefLabel>
         <skos:altLabel xml:lang="sa-x-iast">Ārya­jñānaka­sūtra­buddhāvadāna</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Sūtra of Jñānaka</skos:prefLabel>
-        <skos:altLabel xml:lang="en">The Noble Sūtra of Jñānaka: An Account of the Noble Deeds of the Buddha</skos:altLabel>
+        <skos:altLabel xml:lang="en">The Noble Sūtra of Jñānaka: An Exemplary Tale of the Buddha</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh344.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH344">
@@ -73,7 +73,7 @@
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH344"/>
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">The Sūtra of Jñānaka</skos:prefLabel>
-        <skos:altLabel xml:lang="en">The Noble Sūtra of Jñānaka: An Account of the Noble Deeds of the Buddha</skos:altLabel>
+        <skos:altLabel xml:lang="en">The Noble Sūtra of Jñānaka: An Exemplary Tale of the Buddha</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh344.html"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
