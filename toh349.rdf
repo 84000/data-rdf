@@ -38,7 +38,7 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH349"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH349"/>
         <skos:prefLabel xml:lang="sa-x-iast">Śrīsenāvadāna</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Account of the Noble Deeds of Śrīsena</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">The Exemplary Tale of Śrīsena</skos:prefLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh349.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH349">
@@ -68,7 +68,7 @@
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH349"/>
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
-        <skos:prefLabel xml:lang="en">The Account of the Noble Deeds of Śrīsena</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">The Exemplary Tale of Śrīsena</skos:prefLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh349.html"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
