@@ -38,7 +38,7 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH555"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH555"/>
         <skos:prefLabel xml:lang="sa-x-iast">Suvarṇa­prabhāsottamasūtra</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Sūtra of the Sublime Golden Light</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">The Sūtra of the Sublime Golden Light (1)</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Supremely Victorious King of Sūtras, The Sublime Golden Light”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh555.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
@@ -71,7 +71,7 @@
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH555"/>
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
-        <skos:prefLabel xml:lang="en">The Sūtra of the Sublime Golden Light</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">The Sūtra of the Sublime Golden Light (1)</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Supremely Victorious King of Sūtras, The Sublime Golden Light”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh555.html"/><!--Creators-->
         <bdo:creator>
