@@ -38,7 +38,7 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH250"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH250"/>
         <skos:prefLabel xml:lang="sa-x-iast">Catur­dharmaka</skos:prefLabel>
-        <skos:altLabel xml:lang="sa-x-iast">Catur­dharmaka­­sūtra</skos:altLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Catur­dharmaka­sūtra</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Four Factors</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Sūtra on the Four Factors</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh250.html"/>
