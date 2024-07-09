@@ -37,8 +37,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH579"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH579"/>
-        <skos:prefLabel xml:lang="sa-x-iast">[no Sanskrit title]</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Incantation, The Essence of the Six Perfections</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">The Dhāraṇī of the Essence of the Six Perfections</skos:prefLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh579.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH579">
@@ -47,7 +46,7 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH579"/>
-        <skos:prefLabel xml:lang="bo">ཕར་ཕྱིན་དྲུག་གི་གཟུངས། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག་གི་སྙིང་པོའི་གཟུངས།</skos:prefLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh579.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH579">
@@ -56,12 +55,29 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH579"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH579"/>
-        <skos:prefLabel xml:lang="bo">ཕར་ཕྱིན་དྲུག་གི་གཟུངས། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག་གི་སྙིང་པོའི་གཟུངས།</skos:prefLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>573</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh579.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH579">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH579"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Dhāraṇī of the Essence of the Six Perfections</skos:prefLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh579.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-7">
+                        <skos:prefLabel xml:lang="en">Paul G. Hackett</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
