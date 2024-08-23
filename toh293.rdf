@@ -37,8 +37,9 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH293"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH293"/>
-        <skos:prefLabel xml:lang="sa-x-iast">dhvajāgramahāsūtra</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Great Sūtra on the Best Banner</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Dhvajāgra­mahā­sūtra</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Dhvajāgra­nāma­mahā­sūtra</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Mahāsūtra “The Crest Insignia” (2)</skos:prefLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh293.html"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH293">
@@ -47,7 +48,8 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH293"/>
-        <skos:prefLabel xml:lang="bo">མདོ་ཆེན་པོ་རྒྱལ་མཚན་དམ་པ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">མདོ་ཆེན་པོ་རྒྱལ་མཚན་དམ་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">མདོ་ཆེན་པོ་རྒྱལ་མཚན་དམ་པ་ཞེས་བྱ་བ།</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh293.html"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH293">
@@ -56,12 +58,30 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH293"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH293"/>
-        <skos:prefLabel xml:lang="bo">མདོ་ཆེན་པོ་རྒྱལ་མཚན་དམ་པ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">མདོ་ཆེན་པོ་རྒྱལ་མཚན་དམ་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">མདོ་ཆེན་པོ་རྒྱལ་མཚན་དམ་པ་ཞེས་བྱ་བ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>293</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh293.html"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH293">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH293"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Mahāsūtra “The Crest Insignia” (2)</skos:prefLabel>
+        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh293.html"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-383">
+                        <skos:prefLabel xml:lang="en">Adam T. Miller</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
