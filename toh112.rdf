@@ -41,7 +41,7 @@
         <skos:altLabel xml:lang="sa-x-iast">Karuṇā­puṇḍarīka­nāma­mahāyāna­sūtra</skos:altLabel>
         <skos:prefLabel xml:lang="en">The White Lotus of Compassion</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The White Lotus of Compassion”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh112.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh112"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH112">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -51,7 +51,7 @@
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH112"/>
         <skos:prefLabel xml:lang="bo">སྙིང་རྗེ་པད་མ་དཀར་པོ།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">སྙིང་རྗེ་པད་མ་དཀར་པོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh112.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh112"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH112">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -66,7 +66,7 @@
                 <rdf:value>112</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh112.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh112"/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH112">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -74,7 +74,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">The White Lotus of Compassion</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The White Lotus of Compassion”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh112.html"/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh112"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
