@@ -38,10 +38,10 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH505"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH505"/>
         <skos:prefLabel xml:lang="sa-x-iast">Vaiḍūrya­prabha­dharaṇī</skos:prefLabel>
-        <skos:altLabel xml:lang="sa-x-iast">Ārya­tathāgata­vaiḍūrya­prabha­nāma­baladhana­samādhi­dhāraṇī</skos:altLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Ārya­tathāgata­vaiḍūrya­prabha­nāma­balādhāna­samādhi­dhāraṇī</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Vaiḍūryaprabha Dhāraṇī</skos:prefLabel>
-        <skos:altLabel xml:lang="en">The Noble Dhāraṇī Called Vaiḍūryaprabha that Activates the Power of the Thus-Gone Ones’ Absorption.</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh505.html"/>
+        <skos:altLabel xml:lang="en">The Noble Vaiḍūryaprabha Dhāraṇī That Activates the Power of the Thus-Gone Ones’ Absorption</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh505"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH505">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -51,7 +51,7 @@
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH505"/>
         <skos:prefLabel xml:lang="bo">བཻ་ཌཱུརྱའི་འོད་གྱི་གཟུངས།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་པ་དེ་བཞིན་གཤེགས་པའི་ཏིང་ངེ་འཛིན་གྱི་སྟོབས་བསྐྱེད་པ་བཻ་ཌཱུརྱའི་འོད་ཅེས་བྱ་བའི་གཟུངས།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh505.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh505"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH505">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -66,15 +66,15 @@
                 <rdf:value>504</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh505.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh505"/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH505">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH505"/>
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">The Vaiḍūryaprabha Dhāraṇī</skos:prefLabel>
-        <skos:altLabel xml:lang="en">The Noble Dhāraṇī Called Vaiḍūryaprabha that Activates the Power of the Thus-Gone Ones’ Absorption.</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh505.html"/><!--Creators-->
+        <skos:altLabel xml:lang="en">The Noble Vaiḍūryaprabha Dhāraṇī That Activates the Power of the Thus-Gone Ones’ Absorption</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh505"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
