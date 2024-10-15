@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:adm="http://purl.bdrc.io/ontology/admin/" xmlns:bdo="http://purl.bdrc.io/ontology/core/" xmlns:eftr="http://purl.84000.co/resource/core/" xmlns:bdr="http://purl.bdrc.io/resource/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:bda="http://purl.bdrc.io/admindata/"><!--Some admin data-->
+<rdf:RDF xmlns:eftr="http://purl.84000.co/resource/core/" xmlns:bdr="http://purl.bdrc.io/resource/" xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:adm="http://purl.bdrc.io/ontology/admin/" xmlns:bdo="http://purl.bdrc.io/ontology/core/" xmlns:bda="http://purl.bdrc.io/admindata/"><!--Some admin data-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/DatasetAdminData">
         <adm:metadataLegal rdf:resource="http://purl.84000.co/resource/core/LegalData"/>
         <adm:adminAbout rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
@@ -41,7 +41,7 @@
         <skos:altLabel xml:lang="sa-x-iast">Ārya­tathāgatoṣṇīṣa­sitātapatre aparājitānāma­dhāraṇī</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Invincible Sitātapatrā (1)</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Dhāraṇī “The Invincible Sitātapatrā Born from the Uṣṇīṣa of the Tathāgata”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh592.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh592"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH592">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -51,7 +51,7 @@
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH592"/>
         <skos:prefLabel xml:lang="bo">གདུགས་དཀར་གཞན་གྱིས་མི་ཐུབ་པ།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་པ་དེ་བཞིན་གཤེགས་པའི་གཙུག་ཏོར་ནས་བྱུང་བའི་གདུགས་དཀར་པོ་ཅན་གཞན་གྱིས་མི་ཐུབ་པ་ཞེས་བྱ་བའི་གཟུངས།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh592.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh592"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH592">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -66,7 +66,7 @@
                 <rdf:value>586</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh592.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh592"/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH592">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -74,7 +74,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">The Invincible Sitātapatrā (1)</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Dhāraṇī “The Invincible Sitātapatrā Born from the Uṣṇīṣa of the Tathāgata”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh592.html"/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh592"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
