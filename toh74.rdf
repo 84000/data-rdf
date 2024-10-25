@@ -37,9 +37,11 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH74"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH74"/>
-        <skos:prefLabel xml:lang="sa-x-iast">sumatidārikāparipṛcchāsūtra</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Sūtra of the Girl Sumati's Questions</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh74.html"/>
+        <skos:prefLabel xml:lang="sa-x-iast">Sumatidārikā­pari­pṛcchā­sūtra</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Sumatidārikā­pari­pṛcchā­nāma­mahāyāna­sūtra</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Inquiry of the Girl Sumati</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Inquiry of the Girl Sumati”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh74"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH74">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -47,8 +49,9 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH74"/>
-        <skos:prefLabel xml:lang="bo">བུ་མོ་བློ་གྲོས་བཟང་མོས་ཞུས་པའི་མདོ། </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh74.html"/>
+        <skos:prefLabel xml:lang="bo">བུ་མོ་བློ་གྲོས་བཟང་མོས་ཞུས་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་བུ་མོ་བློ་གྲོས་བཟང་མོས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh74"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH74">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -56,12 +59,31 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH74"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH74"/>
-        <skos:prefLabel xml:lang="bo">བུ་མོ་བློ་གྲོས་བཟང་མོས་ཞུས་པའི་མདོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">བུ་མོ་བློ་གྲོས་བཟང་མོས་ཞུས་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་བུ་མོ་བློ་གྲོས་བཟང་མོས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>74</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh74.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh74"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH74">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH74"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Inquiry of the Girl Sumati</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Inquiry of the Girl Sumati”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh74"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-80">
+                        <skos:prefLabel xml:lang="en">Rebecca Hufen</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
