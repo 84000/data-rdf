@@ -41,7 +41,7 @@
         <skos:altLabel xml:lang="sa-x-iast">Ārya­bodhisatva­piṭaka­nāma­mahāyāna­sūtra</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Collected Teachings on the Bodhisatva</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Collected Teachings on the Bodhisatva”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh56.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh56"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH56">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -51,7 +51,7 @@
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH56"/>
         <skos:prefLabel xml:lang="bo">བྱང་ཆུབ་སེམས་དཔའི་སྡེ་སྣོད།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་པ་བྱང་ཆུབ་སེམས་དཔའི་སྡེ་སྣོད་ཅེས་བྱ་བ་ཐེགས་ཆེན་པོའི་མདོ།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh56.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh56"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH56">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -66,7 +66,7 @@
                 <rdf:value>56</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh56.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh56"/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH56">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -74,7 +74,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">The Collected Teachings on the Bodhisatva</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Collected Teachings on the Bodhisatva”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh56.html"/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh56"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
