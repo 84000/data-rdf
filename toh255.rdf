@@ -37,9 +37,11 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH255"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH255"/>
-        <skos:prefLabel xml:lang="sa-x-iast">dharmasamudrasūtra</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Ocean of the Dharma</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh255.html"/>
+        <skos:prefLabel xml:lang="sa-x-iast">Dharmasamudra</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Dharma­samudra­nāma­mahāyāna­sūtra</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Ocean of Dharma</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Mahāyāna Sūtra “The Ocean of Dharma”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh255"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH255">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -47,8 +49,9 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH255"/>
-        <skos:prefLabel xml:lang="bo">ཆོས་རྒྱ་མཚོ། </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh255.html"/>
+        <skos:prefLabel xml:lang="bo">ཆོས་རྒྱ་མཚོ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">ཐེག་པ་ཆེན་པོའི་མདོ་ཆོས་རྒྱ་མཚོ་ཞེས་བྱ་བ།</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh255"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH255">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -56,12 +59,31 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH255"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH255"/>
-        <skos:prefLabel xml:lang="bo">ཆོས་རྒྱ་མཚོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">ཆོས་རྒྱ་མཚོ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">ཐེག་པ་ཆེན་པོའི་མདོ་ཆོས་རྒྱ་མཚོ་ཞེས་བྱ་བ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>255</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh255.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh255"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH255">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH255"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Ocean of Dharma</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Mahāyāna Sūtra “The Ocean of Dharma”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh255"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-67">
+                        <skos:prefLabel xml:lang="en">Lowell Cook</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
