@@ -38,7 +38,7 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH359A"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH359A"/>
         <skos:prefLabel xml:lang="en">The Sūtra of the Forty-Two Sections</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh359a.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh359a"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH359A">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -47,7 +47,7 @@
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH359A"/>
         <skos:prefLabel xml:lang="bo">དུམ་བུ་ཞེ་གཉིས་པའི་མདོ། </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh359a.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh359a"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH359A">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -61,6 +61,6 @@
                 <rdf:value>945</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh359a.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh359a"/>
     </rdf:Description>
 </rdf:RDF>

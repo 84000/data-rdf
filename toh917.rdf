@@ -37,9 +37,9 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH917"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH917"/>
-        <skos:prefLabel xml:lang="sa-x-iast">ṣaḍakṣaravidyā</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Ṣaḍakṣaravidyā</skos:prefLabel>
         <skos:prefLabel xml:lang="en">The Six Syllable Spell</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh917.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh917"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH917">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -48,7 +48,7 @@
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH917"/>
         <skos:prefLabel xml:lang="bo">ཡི་གེ་དྲུག་པའི་རིག་སྔགས། </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh917.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh917"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH917">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -62,6 +62,6 @@
                 <rdf:value>570</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh917.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh917"/>
     </rdf:Description>
 </rdf:RDF>

@@ -38,7 +38,7 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH1059"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH1059"/>
         <skos:prefLabel xml:lang="en">A Mantra for Incanting Medicines, Extracted from “Destroyer of the Great Trichiliocosm”</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1059.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh1059"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH1059">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -47,7 +47,7 @@
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH1059"/>
         <skos:prefLabel xml:lang="bo">སྟོང་ཆེན་མོ་ནས་ཕྱུང་བ་སྨན་ལ་སྔགས་ཀྱི་གདབ་པ།</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1059.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh1059"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH1059">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -61,14 +61,14 @@
                 <rdf:value>908</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1059.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh1059"/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH1059">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH1059"/>
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">A Mantra for Incanting Medicines, Extracted from “Destroyer of the Great Trichiliocosm”</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1059.html"/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh1059"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>

@@ -41,7 +41,7 @@
         <skos:altLabel xml:lang="sa-x-iast">Ārya­vajra­bhairava­dhāraṇīnāma</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Dhāraṇī of Vajrabhairava</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Dhāraṇī of Vajrabhairava</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh605.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh605"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH605">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -51,7 +51,7 @@
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH605"/>
         <skos:prefLabel xml:lang="bo">རྡོ་རྗེ་འཇིགས་བྱེད་ཀྱི་གཟུངས།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་པ་རྡོ་རྗེ་འཇིགས་བྱེད་ཀྱི་གཟུངས་ཞེས་བྱ་བ།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh605.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh605"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH605">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -66,7 +66,7 @@
                 <rdf:value>599</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh605.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh605"/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH605">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -74,7 +74,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">The Dhāraṇī of Vajrabhairava</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Dhāraṇī of Vajrabhairava</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh605.html"/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh605"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
