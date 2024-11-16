@@ -38,7 +38,7 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH886"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH886"/>
         <skos:prefLabel xml:lang="sa-x-iast">Puṣpakūṭa­dhāraṇī</skos:prefLabel>
-        <skos:altLabel xml:lang="sa-x-iast">Ārya­pūṣpakūṭa­nāma­dhāraṇī</skos:altLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Ārya­puṣpakūṭa­nāma­dhāraṇī</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Dhāraṇī “Heap of Flowers”</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Dhāraṇī “Heap of Flowers”</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh886"/>
