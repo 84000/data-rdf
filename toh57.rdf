@@ -37,9 +37,10 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH57"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH57"/>
-        <skos:prefLabel xml:lang="sa-x-iast">nandagarbhāvakrāntinirdeśa</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Teaching to Nanda on Entering the Womb</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh57.html"/>
+        <skos:altLabel xml:lang="sa-x-iast">Ārya­nanda­garbhāvakrānti­nirdeśa</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Teaching to the Venerable Nanda on Dwelling in the Womb</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Teaching to Nanda on Dwelling in the Womb”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh57"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH57">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -47,8 +48,9 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH57"/>
-        <skos:prefLabel xml:lang="bo">དགའ་བོ་མངལ་དུ་འཇུག་པ་བསྟན་པའི་མདོ། </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh57.html"/>
+        <skos:prefLabel xml:lang="bo">ཚེ་དང་ལྡན་པ་དགའ་བོ་ལ་མངལ་ན་གནས་པ་བསྟན་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་དགའ་བོ་ལ་མངལ་ན་གནས་པ་བསྟན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh57"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH57">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -56,12 +58,13 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH57"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH57"/>
-        <skos:prefLabel xml:lang="bo">དགའ་བོ་མངལ་དུ་འཇུག་པ་བསྟན་པའི་མདོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">ཚེ་དང་ལྡན་པ་དགའ་བོ་ལ་མངལ་ན་གནས་པ་བསྟན་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་དགའ་བོ་ལ་མངལ་ན་གནས་པ་བསྟན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>57</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh57.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh57"/>
     </rdf:Description>
 </rdf:RDF>
