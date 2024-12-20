@@ -37,9 +37,11 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH942"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH942"/>
-        <skos:prefLabel xml:lang="sa-x-iast">[no Sanskrit title]</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Incantation that Captures the Samādhirājasūtra</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh942.html"/>
+        <skos:prefLabel xml:lang="sa-x-iast">Samādhi­rāja­nāma­dhāraṇī</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Ārya­samādhi­rāja­nāma­dhāraṇī</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Dhāraṇī to Uphold “The King of Samādhis Sūtra”</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble “Dhāraṇī to Uphold ‘The King of Samādhis Sūtra’ ”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh942"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH942">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -47,8 +49,9 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH942"/>
-        <skos:prefLabel xml:lang="bo">ཏིང་ངེ་འཛིན་རྒྱལ་པོའི་མདོ་བཟུང་བའི་གཟུངས། </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh942.html"/>
+        <skos:prefLabel xml:lang="bo">ཏིང་ངེ་འཛིན་གྱི་རྒྱལ་པོའི་མདོ་གཟུང་བར་འགྱུར་བའི་གཟུངས།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་ཏིང་ངེ་འཛིན་གྱི་རྒྱལ་པོའི་མདོ་གཟུང་བར་འགྱུར་བའི་གཟུངས།</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh942"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH942">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -56,12 +59,13 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH942"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH942"/>
-        <skos:prefLabel xml:lang="bo">ཏིང་ངེ་འཛིན་རྒྱལ་པོའི་མདོ་བཟུང་བའི་གཟུངས། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">ཏིང་ངེ་འཛིན་གྱི་རྒྱལ་པོའི་མདོ་གཟུང་བར་འགྱུར་བའི་གཟུངས།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་ཏིང་ངེ་འཛིན་གྱི་རྒྱལ་པོའི་མདོ་གཟུང་བར་འགྱུར་བའི་གཟུངས།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>580</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh942.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh942"/>
     </rdf:Description>
 </rdf:RDF>

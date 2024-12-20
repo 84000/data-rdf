@@ -37,9 +37,11 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH943"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH943"/>
-        <skos:prefLabel xml:lang="sa-x-iast">[no Sanskrit title]</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">Essence of the Great Peahen</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh943.html"/>
+        <skos:prefLabel xml:lang="sa-x-iast">Mahāmāyūrī­garbha</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Ārya­mahāmāyūrī­garbha</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Quintessence of “The Great Peahen”</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble “Quintessence of ‘The Great Peahen’ ”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh943"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH943">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -47,8 +49,9 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH943"/>
-        <skos:prefLabel xml:lang="bo">རྨ་བྱ་ཆེན་མོའི་སྙིང་པོ། </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh943.html"/>
+        <skos:prefLabel xml:lang="bo">རྨ་བྱ་ཆེན་མོའི་སྙིང་པོ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་རྨ་བྱ་ཆེན་མོའི་སྙིང་པོ།</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh943"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH943">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -56,12 +59,13 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH943"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH943"/>
-        <skos:prefLabel xml:lang="bo">རྨ་བྱ་ཆེན་མོའི་སྙིང་པོ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">རྨ་བྱ་ཆེན་མོའི་སྙིང་པོ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་རྨ་བྱ་ཆེན་མོའི་སྙིང་པོ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>581</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh943.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh943"/>
     </rdf:Description>
 </rdf:RDF>
