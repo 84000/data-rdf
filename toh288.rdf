@@ -37,9 +37,10 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH288"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH288"/>
-        <skos:prefLabel xml:lang="sa-x-iast">māyājālasūtra</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Great Sūtra of Illusion's Net</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh288.html"/>
+        <skos:prefLabel xml:lang="sa-x-iast">Māyājālamahā­sūtra</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Māyājālanāmamahā­sūtra</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Mahāsūtra “Illusion’s Net”</skos:prefLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh288"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH288">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -47,8 +48,9 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH288"/>
-        <skos:prefLabel xml:lang="bo">མདོ་ཆེན་སྒྱུ་མའི་དྲ་བ། </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh288.html"/>
+        <skos:prefLabel xml:lang="bo">མདོ་ཆེན་སྒྱུ་མའི་དྲ་བ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">མདོ་ཆེན་པོ་སྒྱུ་མའི་དྲ་བ་ཞེས་བྱ་བ།</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh288"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH288">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -56,12 +58,30 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH288"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH288"/>
-        <skos:prefLabel xml:lang="bo">མདོ་ཆེན་སྒྱུ་མའི་དྲ་བ། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">མདོ་ཆེན་སྒྱུ་མའི་དྲ་བ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">མདོ་ཆེན་པོ་སྒྱུ་མའི་དྲ་བ་ཞེས་བྱ་བ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>288</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh288.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh288"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH288">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH288"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Mahāsūtra “Illusion’s Net”</skos:prefLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh288"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-72">
+                        <skos:prefLabel xml:lang="en">Oriane Lavolé</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>

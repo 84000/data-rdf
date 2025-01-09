@@ -38,7 +38,7 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH265"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH265"/>
         <skos:prefLabel xml:lang="en">The Minor Chapters on the Rituals of Homage and the Clearing away of Remorse in the Noble Sūtra of the Great Realization</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh265.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh265"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH265">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -47,7 +47,7 @@
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH265"/>
         <skos:prefLabel xml:lang="bo">རྟོགས་པ་ཆེན་པོའི་མདོ་ལས་ཕྱག་འཚལ་བའི་ཆོ་ག་དང་། འགྱོད་ཚངས་ཀྱི་ལེའུ་ཉི་ཚེ། </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh265.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh265"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH265">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -61,6 +61,6 @@
                 <rdf:value>265</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh265.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh265"/>
     </rdf:Description>
 </rdf:RDF>
