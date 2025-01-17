@@ -38,8 +38,8 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH539B"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH539B"/>
         <skos:prefLabel xml:lang="sa-x-iast">[no Sanskrit title]</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">[The Incantation for] Blessing the Offerings</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh539b.html"/>
+        <skos:prefLabel xml:lang="en">[The Dhāraṇī for] Blessing the Offerings</skos:prefLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh539b"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH539B">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -48,7 +48,7 @@
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH539B"/>
         <skos:prefLabel xml:lang="bo">མཆོད་པ་བྱིན་གྱིས་བརླབ་པ། ༼མཆོད་པ་བྱིན་གྱིས་བརླབ་པའི་གཟུངས།༽ </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh539b.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh539b"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH539B">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -62,6 +62,6 @@
                 <rdf:value>1071</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh539b.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh539b"/>
     </rdf:Description>
 </rdf:RDF>

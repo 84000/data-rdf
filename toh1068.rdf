@@ -37,9 +37,9 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH1068"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH1068"/>
-        <skos:prefLabel xml:lang="sa-x-iast">pūjameghadhāraṇī</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Incantation, the Cloud of Offerings</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1068.html"/>
+        <skos:prefLabel xml:lang="sa-x-iast">Pūja­megha­dhāraṇī</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">The Dhāraṇī “Cloud of Offerings”</skos:prefLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh1068"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH1068">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -47,8 +47,8 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH1068"/>
-        <skos:prefLabel xml:lang="bo">མཆོད་སྤྲིན་གྱི་གཟུངས། </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1068.html"/>
+        <skos:prefLabel xml:lang="bo">མཆོད་པའི་སྤྲིན་ཞེས་བྱ་བའི་གཟུངས།</skos:prefLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh1068"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH1068">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -56,12 +56,29 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH1068"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH1068"/>
-        <skos:prefLabel xml:lang="bo">མཆོད་སྤྲིན་གྱི་གཟུངས། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">མཆོད་པའི་སྤྲིན་ཞེས་བྱ་བའི་གཟུངས།</skos:prefLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>536</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1068.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh1068"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH1068">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH1068"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Dhāraṇī “Cloud of Offerings”</skos:prefLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh1068"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-61">
+                        <skos:prefLabel xml:lang="en">Catherine Dalton</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>

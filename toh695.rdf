@@ -39,7 +39,7 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH695"/>
         <skos:prefLabel xml:lang="sa-x-iast">[no Sanskrit title]</skos:prefLabel>
         <skos:prefLabel xml:lang="en">The Essence of Avalokiteśvara</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh695.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh695"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH695">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -48,7 +48,7 @@
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH695"/>
         <skos:prefLabel xml:lang="bo">སྤྱན་རས་གཟིགས་ཀྱི་སྙིང་པོ། </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh695.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh695"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH695">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -62,6 +62,6 @@
                 <rdf:value>689</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh695.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh695"/>
     </rdf:Description>
 </rdf:RDF>
