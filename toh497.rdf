@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:eftr="http://purl.84000.co/resource/core/" xmlns:bdr="http://purl.bdrc.io/resource/" xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:adm="http://purl.bdrc.io/ontology/admin/" xmlns:bdo="http://purl.bdrc.io/ontology/core/" xmlns:bda="http://purl.bdrc.io/admindata/"><!--Some admin data-->
+<rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:adm="http://purl.bdrc.io/ontology/admin/" xmlns:bdo="http://purl.bdrc.io/ontology/core/" xmlns:eftr="http://purl.84000.co/resource/core/" xmlns:bdr="http://purl.bdrc.io/resource/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:bda="http://purl.bdrc.io/admindata/"><!--Some admin data-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/DatasetAdminData">
         <adm:metadataLegal rdf:resource="http://purl.84000.co/resource/core/LegalData"/>
         <adm:adminAbout rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
@@ -37,9 +37,11 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH497"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH497"/>
-        <skos:prefLabel xml:lang="sa-x-iast">aṣṭadevīdhāraṇī</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">Incantation of the Eight Goddesses</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh497.html"/>
+        <skos:prefLabel xml:lang="sa-x-iast">Aṣṭadevī­dhāraṇī</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Āryāṣṭadevī­dhāraṇī</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Dhāraṇī of the Eight Goddesses</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Dhāraṇī of the Eight Goddesses</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh497"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH497">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -47,8 +49,9 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH497"/>
-        <skos:prefLabel xml:lang="bo">ལྷ་མོ་བརྒྱད་ཀྱི་གཟུངས། </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh497.html"/>
+        <skos:prefLabel xml:lang="bo">ལྷ་མོ་བརྒྱད་ཀྱི་གཟུངས།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་ལྷ་མོ་བརྒྱད་ཀྱི་གཟུངས།</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh497"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH497">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -56,12 +59,31 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH497"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH497"/>
-        <skos:prefLabel xml:lang="bo">ལྷ་མོ་བརྒྱད་ཀྱི་གཟུངས། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">ལྷ་མོ་བརྒྱད་ཀྱི་གཟུངས།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་ལྷ་མོ་བརྒྱད་ཀྱི་གཟུངས།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>496</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh497.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh497"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH497">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH497"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Dhāraṇī of the Eight Goddesses</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Dhāraṇī of the Eight Goddesses</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh497"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-274">
+                        <skos:prefLabel xml:lang="en">Adam C. Krug</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
