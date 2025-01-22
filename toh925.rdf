@@ -37,8 +37,10 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH925"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH925"/>
-        <skos:prefLabel xml:lang="sa-x-iast">Sarvābhayapradā dhāraṇī</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Dhāraṇī that Confers Fearlessness</skos:prefLabel>
+        <skos:prefLabel xml:lang="sa-x-iast">Sarvābhaya­pradā­dhāraṇī</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Ārya­sarvābhaya­pradānāma­dhāraṇī</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Dhāraṇī That Fully Confers Freedom From All Dangers</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Dhāraṇī That Fully Confers Freedom From All Dangers</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh925"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH925">
@@ -47,7 +49,8 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH925"/>
-        <skos:prefLabel xml:lang="bo">མི་འཇིགས་པ་རབ་ཏུ་སྦྱིན་པའི་གཟུངས། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">ཐམས་ཅད་ལ་མི་འཇིགས་པ་རབ་ཏུ་སྦྱིན་པ་ཞེས་བྱ་བའི་གཟུངས།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་ཐམས་ཅད་ལ་མི་འཇིགས་པ་རབ་ཏུ་སྦྱིན་པ་ཞེས་བྱ་བའི་གཟུངས།</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh925"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH925">
@@ -56,12 +59,31 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH925"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH925"/>
-        <skos:prefLabel xml:lang="bo">མི་འཇིགས་པ་རབ་ཏུ་སྦྱིན་པའི་གཟུངས། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">ཐམས་ཅད་ལ་མི་འཇིགས་པ་རབ་ཏུ་སྦྱིན་པ་ཞེས་བྱ་བའི་གཟུངས།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">འཕགས་པ་ཐམས་ཅད་ལ་མི་འཇིགས་པ་རབ་ཏུ་སྦྱིན་པ་ཞེས་བྱ་བའི་གཟུངས།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>603</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh925"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH925">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH925"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Dhāraṇī That Fully Confers Freedom From All Dangers</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Dhāraṇī That Fully Confers Freedom From All Dangers</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh925"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-67">
+                        <skos:prefLabel xml:lang="en">Lowell Cook</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
