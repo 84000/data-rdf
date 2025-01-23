@@ -37,9 +37,11 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH409"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH409"/>
-        <skos:prefLabel xml:lang="sa-x-iast">vajrabhairavavidāraṇatantra</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Tantra of Vajrabhairava’s Destruction</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh409.html"/>
+        <skos:prefLabel xml:lang="sa-x-iast">Vajra­bhaira­vavidāraṇa</skos:prefLabel>
+        <skos:altLabel xml:lang="sa-x-iast">Śrī­vajra­bhairava­vidāraṇa­tantra­rāja</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Fearsome Vajra of Destruction</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Glorious King of Tantras: The Fearsome Vajra of Destruction</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh409"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH409">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -47,8 +49,9 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH409"/>
-        <skos:prefLabel xml:lang="bo">འཇིགས་བྱེད་རྣམ་པར་འཇོམས་པའི་རྒྱུད། </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh409.html"/>
+        <skos:prefLabel xml:lang="bo">རྡོ་རྗེ་འཇིགས་བྱེད་རྣམ་པར་འཇོམས་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">དཔལ་རྡོ་རྗེ་འཇིགས་བྱེད་རྣམ་པར་འཇོམས་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོ།</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh409"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH409">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -56,12 +59,31 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH409"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH409"/>
-        <skos:prefLabel xml:lang="bo">འཇིགས་བྱེད་རྣམ་པར་འཇོམས་པའི་རྒྱུད། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">རྡོ་རྗེ་འཇིགས་བྱེད་རྣམ་པར་འཇོམས་པ།</skos:prefLabel>
+        <skos:altLabel xml:lang="bo">དཔལ་རྡོ་རྗེ་འཇིགས་བྱེད་རྣམ་པར་འཇོམས་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོ།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>409</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh409.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh409"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH409">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH409"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Fearsome Vajra of Destruction</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Glorious King of Tantras: The Fearsome Vajra of Destruction</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh409"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-23">
+                        <skos:prefLabel xml:lang="en">Bruno Galasek-Hul</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
