@@ -39,8 +39,8 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH900"/>
         <skos:prefLabel xml:lang="sa-x-iast">Avalokiteśvarasya­nāmāṣṭaśatakam</skos:prefLabel>
         <skos:altLabel xml:lang="sa-x-iast">Āryāvalokiteśvarasya­nāmāṣṭaśatakam</skos:altLabel>
-        <skos:prefLabel xml:lang="en">The Hundred and Eight Names of Avalokiteśvara</skos:prefLabel>
-        <skos:altLabel xml:lang="en">The Hundred and Eight Names of Noble Avalokiteśvara</skos:altLabel>
+        <skos:prefLabel xml:lang="en">The Hundred and Eight Names of Avalokiteśvara [1]</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Hundred and Eight Names of Avalokiteśvara [1]</skos:altLabel>
         <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh900"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH900">
@@ -67,5 +67,23 @@
             </bdr:RefrKTsK>
         </bf:identifiedBy>
         <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh900"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH900">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH900"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Hundred and Eight Names of Avalokiteśvara [1]</skos:prefLabel>
+        <skos:altLabel xml:lang="en">The Noble Hundred and Eight Names of Avalokiteśvara [1]</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh900"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-61">
+                        <skos:prefLabel xml:lang="en">Catherine Dalton</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>

@@ -37,9 +37,9 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangInc"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH997"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH997"/>
-        <skos:prefLabel xml:lang="sa-x-iast">grahamātṛkādhāraṇī</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Incantation, The Mother of the Demons</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh997.html"/>
+        <skos:prefLabel xml:lang="sa-x-iast">Ārya­graha­mātṛkānāma­dhāraṇī</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">The Noble Dhāraṇī “The Mother of the Grahas”</skos:prefLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh997"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH997">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -47,8 +47,8 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH997"/>
-        <skos:prefLabel xml:lang="bo">གཟའ་རྣམས་ཀྱི་ཡུམ་གྱི་གཟུངས། </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh997.html"/>
+        <skos:prefLabel xml:lang="bo">འཕགས་མ་གཟའ་རྣམས་ཀྱི་ཡུམ་ཞེས་བྱ་བའི་གཟུངས།</skos:prefLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh997"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH997">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -56,12 +56,29 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH997"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH997"/>
-        <skos:prefLabel xml:lang="bo">གཟའ་རྣམས་ཀྱི་ཡུམ་གྱི་གཟུངས། </skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">འཕགས་མ་གཟའ་རྣམས་ཀྱི་ཡུམ་ཞེས་བྱ་བའི་གཟུངས།</skos:prefLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>654</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh997.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh997"/>
+    </rdf:Description><!--The English translation-->
+    <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH997">
+        <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
+        <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH997"/>
+        <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
+        <skos:prefLabel xml:lang="en">The Noble Dhāraṇī “The Mother of the Grahas”</skos:prefLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh997"/><!--Creators-->
+        <bdo:creator>
+            <bdo:AgentAsCreator>
+                <bdo:agent>
+                    <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-274">
+                        <skos:prefLabel xml:lang="en">Adam C. Krug</skos:prefLabel>
+                    </bdo:Person>
+                </bdo:agent>
+                <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>
+            </bdo:AgentAsCreator>
+        </bdo:creator>
     </rdf:Description>
 </rdf:RDF>
