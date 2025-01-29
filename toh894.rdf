@@ -39,7 +39,7 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH894"/>
         <skos:prefLabel xml:lang="en">The Epithets of Mañjuśrī</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Epithets of Mañjuśrī</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh894.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh894"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH894">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -49,7 +49,7 @@
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH894"/>
         <skos:prefLabel xml:lang="bo">འཇམ་དཔལ་གྱི་མཚན།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh894.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh894"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH894">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -64,7 +64,7 @@
                 <rdf:value>546</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh894.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh894"/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH894">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -72,7 +72,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">The Epithets of Mañjuśrī</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Epithets of Mañjuśrī</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh894.html"/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh894"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>

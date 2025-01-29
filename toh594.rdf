@@ -41,7 +41,7 @@
         <skos:altLabel xml:lang="sa-x-iast">Sarva­tathāgatoṣṇīṣavijayā­nāma­dhāraṇīkalpasahitā</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Uṣṇīṣavijayā Dhāraṇī with Its Ritual Manual (1)</skos:prefLabel>
         <skos:altLabel xml:lang="en">Crown Victory of All Tathāgatas: The Uṣṇīṣavijayā Dhāraṇī with Its Ritual Manual</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh594.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh594"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH594">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -51,7 +51,7 @@
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH594"/>
         <skos:prefLabel xml:lang="bo">གཙུག་ཏོར་རྣམ་རྒྱལ་གྱི་གཟུངས་རྟོག་པ་དང་བཅས་པ།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་གཙུག་ཏོར་རྣམ་པར་རྒྱལ་བ་ཞེས་བྱ་བའི་གཟུངས་རྟོག་པ་དང་བཅས་པ།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh594.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh594"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH594">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -66,7 +66,7 @@
                 <rdf:value>588</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh594.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh594"/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH594">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -74,7 +74,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">The Uṣṇīṣavijayā Dhāraṇī with Its Ritual Manual (1)</skos:prefLabel>
         <skos:altLabel xml:lang="en">Crown Victory of All Tathāgatas: The Uṣṇīṣavijayā Dhāraṇī with Its Ritual Manual</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh594.html"/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh594"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
