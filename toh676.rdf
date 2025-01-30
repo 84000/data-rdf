@@ -41,7 +41,7 @@
         <skos:altLabel xml:lang="sa-x-iast">Āryāparimitāyur­jñāna­hṛdaya­nāma­dhāraṇī</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Dhāraṇī “Essence of Immeasurable Longevity and Wisdom”</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Dhāraṇī “Essence of Immeasurable Longevity and Wisdom”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh676.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh676"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH676">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -51,7 +51,7 @@
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH676"/>
         <skos:prefLabel xml:lang="bo">ཚེ་དང་ཡེ་ཤེས་དཔག་ཏུ་མེད་པའི་སྙིང་པོའི་གཟུངས།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་པ་ཚེ་དང་ཡེ་ཤེས་དཔག་ཏུ་མེད་པའི་སྙིང་པོ་ཞེས་བྱ་བའི་གཟུངས།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh676.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh676"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH676">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -66,7 +66,7 @@
                 <rdf:value>670</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh676.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh676"/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH676">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -74,12 +74,12 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">The Dhāraṇī “Essence of Immeasurable Longevity and Wisdom”</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Dhāraṇī “Essence of Immeasurable Longevity and Wisdom”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh676.html"/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh676"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
                     <bdo:Person rdf:about="http://purl.84000.co/resource/core/person-274">
-                        <skos:prefLabel xml:lang="en">Adam Krug</skos:prefLabel>
+                        <skos:prefLabel xml:lang="en">Adam C. Krug</skos:prefLabel>
                     </bdo:Person>
                 </bdo:agent>
                 <bdo:role rdf:resource="http://purl.bdrc.io/resource/R0ER0017"/>

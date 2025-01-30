@@ -38,7 +38,7 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH44-2"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH44-2"/>
         <skos:prefLabel xml:lang="en">Chapter 2: The Tathāgata</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh44-2.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh44-2"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH44-2">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -47,7 +47,7 @@
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH44-2"/>
         <skos:prefLabel xml:lang="bo">དེ་བཞིན་གཤེགས་པའི་ལེའུ། </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh44-2.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh44-2"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH44-2">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -61,6 +61,6 @@
                 <rdf:value>44-2</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh44-2.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh44-2"/>
     </rdf:Description>
 </rdf:RDF>

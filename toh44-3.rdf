@@ -38,7 +38,7 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH44-3"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH44-3"/>
         <skos:prefLabel xml:lang="en">Chapter 3: Samantabhadra's Miraculous Samādhi</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh44-3.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh44-3"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH44-3">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -47,7 +47,7 @@
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH44-3"/>
         <skos:prefLabel xml:lang="bo">ཀུན་བཟང་ཏིང་འཛིན་རྣམ་འཕྲུལ་ལེའུ། </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh44-3.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh44-3"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH44-3">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -61,6 +61,6 @@
                 <rdf:value>44-3</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh44-3.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh44-3"/>
     </rdf:Description>
 </rdf:RDF>

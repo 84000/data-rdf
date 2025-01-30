@@ -41,7 +41,7 @@
         <skos:altLabel xml:lang="sa-x-iast">Sarva­prajñāntapāramitā­siddha­caitya­dhāraṇī</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Dhāraṇī for a Caitya</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Dhāraṇī for a Caitya Perfectly Constructed with Complete Knowledge</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh884.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh884"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH884">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -51,7 +51,7 @@
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH884"/>
         <skos:prefLabel xml:lang="bo">མཆོད་རྟེན་གྱི་གཟུངས།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">ཤེས་པ་ཐམས་ཅད་མཐར་ཕྱིན་པར་གྲུབ་པའི་མཆོད་རྟེན་ཞེས་བྱ་བའི་གཟུངས།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh884.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh884"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH884">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -66,7 +66,7 @@
                 <rdf:value>595</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh884.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh884"/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH884">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -74,7 +74,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">The Dhāraṇī for a Caitya</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Dhāraṇī for a Caitya Perfectly Constructed with Complete Knowledge</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh884.html"/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh884"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>

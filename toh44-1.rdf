@@ -38,7 +38,7 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH44-1"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH44-1"/>
         <skos:prefLabel xml:lang="en">Chapter 1: The Ornaments of All the Lords of the World</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh44-1.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh44-1"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH44-1">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -47,7 +47,7 @@
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH44-1"/>
         <skos:prefLabel xml:lang="bo">འཇིག་རྟེན་གྱི་དབང་པོ་ཐམས་ཅད་ཀྱི་རྒྱན་གྱི་ཚུལ་ལེའུ། </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh44-1.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh44-1"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH44-1">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -61,6 +61,6 @@
                 <rdf:value>44-1</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh44-1.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh44-1"/>
     </rdf:Description>
 </rdf:RDF>
