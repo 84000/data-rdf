@@ -41,7 +41,7 @@
         <skos:altLabel xml:lang="sa-x-iast">Āryāvalokiteśvara­paripṛcchā­sapta­dharmaka­nāma­mahā­yāna­sūtra</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Inquiry of Avalokiteśvara on the Seven Qualities</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Inquiry of Avalokiteśvara on the Seven Qualities”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh150.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh150"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH150">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -51,7 +51,7 @@
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH150"/>
         <skos:prefLabel xml:lang="bo">སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གིས་ཞུས་པ་ཆོས་བདུན་པ།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གིས་ཞུས་པ་ཆོས་བདུན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh150.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh150"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH150">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -66,7 +66,7 @@
                 <rdf:value>150</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh150.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh150"/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH150">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -74,7 +74,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">The Inquiry of Avalokiteśvara on the Seven Qualities</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Mahāyāna Sūtra “The Inquiry of Avalokiteśvara on the Seven Qualities”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh150.html"/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh150"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
