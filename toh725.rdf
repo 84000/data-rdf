@@ -41,7 +41,7 @@
         <skos:altLabel xml:lang="sa-x-iast">Āryāvalokiteśvara­mātā­nāma­dhāraṇī</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Dhāraṇī “The Mother of Avalokiteśvara”</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Dhāraṇī “The Mother of Avalokiteśvara”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh725.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh725"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH725">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -49,9 +49,9 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH725"/>
-        <skos:prefLabel xml:lang="bo">སྤྱན་རས་གཟིགས་ཡུམ་གི་གཟུངས།</skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་ཡུམ་ཞེས་བྱའི་གཟུངས།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་ཡུམ་ཞེས་བྱ་བའི་གཟུངས།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh725.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh725"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH725">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -59,14 +59,14 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH725"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH725"/>
-        <skos:prefLabel xml:lang="bo">སྤྱན་རས་གཟིགས་ཡུམ་གི་གཟུངས།</skos:prefLabel>
+        <skos:prefLabel xml:lang="bo">སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་ཡུམ་ཞེས་བྱའི་གཟུངས།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་ཡུམ་ཞེས་བྱ་བའི་གཟུངས།</skos:altLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>719</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh725.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh725"/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH725">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -74,7 +74,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">The Dhāraṇī “The Mother of Avalokiteśvara”</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Dhāraṇī “The Mother of Avalokiteśvara”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh725.html"/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh725"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
