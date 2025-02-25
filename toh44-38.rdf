@@ -38,8 +38,8 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH44-38"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH44-38"/>
         <skos:prefLabel xml:lang="en">The Dwellings of Bodhisattvas</skos:prefLabel>
-        <skos:altLabel xml:lang="en">“The Dwellings of Bodhisattvas,” Chapter 38 of the Extensive Sūtra “The Ornaments of the Buddhas”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh44-38.html"/>
+        <skos:altLabel xml:lang="en">“The Dwellings of Bodhisattvas,” Chapter 38 of the Extensive Sūtra “A Multitude of Buddhas”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh44-38"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH44-38">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -49,7 +49,7 @@
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH44-38"/>
         <skos:prefLabel xml:lang="bo">བྱང་ཆུབ་སེམས་དཔའི་གནས།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">ཤིན་ཏུ་རྒྱས་པ་ཆེན་པོའི་མདོ་སངས་རྒྱས་ཕལ་པོ་ཆེ་ཞེས་བྱ་བ་ལས་བྱང་ཆུབ་སེམས་པའི་གནས་ཀྱི་ལེའུ་སྟེ་སུམ་ཅུ་བརྒྱད་པ།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh44-38.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh44-38"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH44-38">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -64,15 +64,15 @@
                 <rdf:value>44-38</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh44-38.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh44-38"/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH44-38">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH44-38"/>
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">The Dwellings of Bodhisattvas</skos:prefLabel>
-        <skos:altLabel xml:lang="en">“The Dwellings of Bodhisattvas,” Chapter 38 of the Extensive Sūtra “The Ornaments of the Buddhas”</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh44-38.html"/><!--Creators-->
+        <skos:altLabel xml:lang="en">“The Dwellings of Bodhisattvas,” Chapter 38 of the Extensive Sūtra “A Multitude of Buddhas”</skos:altLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh44-38"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
