@@ -38,8 +38,8 @@
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WAETOH1013"/>
         <bdo:workHasTranslation rdf:resource="http://purl.84000.co/resource/core/WATTOH1013"/>
         <skos:prefLabel xml:lang="sa-x-iast">[no Sanskrit title]</skos:prefLabel>
-        <skos:prefLabel xml:lang="en">The Incantation for the Purification of All Evil Destinies</skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1013.html"/>
+        <skos:prefLabel xml:lang="en">The Dhāraṇī for the Purification of All Evil Destinies</skos:prefLabel>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh1013"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH1013">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -48,7 +48,7 @@
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH1013"/>
         <skos:prefLabel xml:lang="bo">ངན་སོང་ཐམས་ཅད་ཡོངས་སུ་སྦྱོང་བའི་གཟུངས། </skos:prefLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1013.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh1013"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH1013">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -62,6 +62,6 @@
                 <rdf:value>776</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh1013.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh1013"/>
     </rdf:Description>
 </rdf:RDF>
