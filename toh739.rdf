@@ -41,7 +41,7 @@
         <skos:altLabel xml:lang="sa-x-iast">Ārya­śrī­mahā­devī­vyākaraṇa</skos:altLabel>
         <skos:prefLabel xml:lang="en">The Prophecy of Śrī Mahādevī</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Prophecy of Śrī Mahādevī</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh739.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh739"/>
     </rdf:Description><!--The Derge edition of the Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WEKDTOH739">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Instance"/>
@@ -51,7 +51,7 @@
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH739"/>
         <skos:prefLabel xml:lang="bo">ལྷ་མོ་ཆེན་མོ་དཔལ་ལུང་བསྟན་པ།</skos:prefLabel>
         <skos:altLabel xml:lang="bo">འཕགས་པ་ལྷ་མོ་ཆེན་མོ་དཔལ་ལུང་བསྟན་པ།</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh739.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh739"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH739">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -66,7 +66,7 @@
                 <rdf:value>193</rdf:value>
             </bdr:RefrKTsK>
         </bf:identifiedBy>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh739.html"/>
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh739"/>
     </rdf:Description><!--The English translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WAETOH739">
         <rdf:type rdf:resource="http://purl.bdrc.io/ontology/core/Work"/>
@@ -74,7 +74,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangEn"/>
         <skos:prefLabel xml:lang="en">The Prophecy of Śrī Mahādevī</skos:prefLabel>
         <skos:altLabel xml:lang="en">The Noble Prophecy of Śrī Mahādevī</skos:altLabel>
-        <adm:canonicalHtml rdf:resource="https://read.84000.co/translation/toh739.html"/><!--Creators-->
+        <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh739"/><!--Creators-->
         <bdo:creator>
             <bdo:AgentAsCreator>
                 <bdo:agent>
