@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:adm="http://purl.bdrc.io/ontology/admin/" xmlns:bdo="http://purl.bdrc.io/ontology/core/" xmlns:eftr="http://purl.84000.co/resource/core/" xmlns:bdr="http://purl.bdrc.io/resource/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:bda="http://purl.bdrc.io/admindata/"><!--Some admin data-->
+<rdf:RDF xmlns:eftr="http://purl.84000.co/resource/core/" xmlns:bdr="http://purl.bdrc.io/resource/" xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:adm="http://purl.bdrc.io/ontology/admin/" xmlns:bdo="http://purl.bdrc.io/ontology/core/" xmlns:bda="http://purl.bdrc.io/admindata/"><!--Some admin data-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/DatasetAdminData">
         <adm:metadataLegal rdf:resource="http://purl.84000.co/resource/core/LegalData"/>
         <adm:adminAbout rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
@@ -47,7 +47,7 @@
         <bdo:script rdf:resource="http://purl.bdrc.io/resource/ScriptDbuCan"/>
         <bdo:partOf rdf:resource="http://purl.84000.co/resource/core/WKangyurD"/>
         <bdo:instanceOf rdf:resource="http://purl.84000.co/resource/core/WATTOH362"/>
-        <skos:altLabel xml:lang="bo">མཆོག་གི་དང་པོའི་སངས་རྒྱས་ལས་ཕྱུང་བ་རྒྱུད་ཀྱི་རྒྱལ་པོ་དཔལ་དུས་ཀྱི་འཁོར་ལོ།</skos:altLabel>
+        <skos:prefLabel xml:lang="bo">མཆོག་གི་དང་པོའི་སངས་རྒྱས་ལས་ཕྱུང་བ་རྒྱུད་ཀྱི་རྒྱལ་པོ་དཔལ་དུས་ཀྱི་འཁོར་ལོ།</skos:prefLabel>
         <adm:canonicalHtml rdf:resource="https://84000.co/translation/toh362"/>
     </rdf:Description><!--The original Tibetan translation-->
     <rdf:Description rdf:about="http://purl.84000.co/resource/core/WATTOH362">
@@ -56,7 +56,7 @@
         <bdo:language rdf:resource="http://purl.bdrc.io/resource/LangBo"/>
         <bdo:workHasInstance rdf:resource="http://purl.84000.co/resource/core/WEKDTOH362"/>
         <bdo:workTranslationOf rdf:resource="http://purl.84000.co/resource/core/WAITOH362"/>
-        <skos:altLabel xml:lang="bo">མཆོག་གི་དང་པོའི་སངས་རྒྱས་ལས་ཕྱུང་བ་རྒྱུད་ཀྱི་རྒྱལ་པོ་དཔལ་དུས་ཀྱི་འཁོར་ལོ།</skos:altLabel>
+        <skos:prefLabel xml:lang="bo">མཆོག་གི་དང་པོའི་སངས་རྒྱས་ལས་ཕྱུང་བ་རྒྱུད་ཀྱི་རྒྱལ་པོ་དཔལ་དུས་ཀྱི་འཁོར་ལོ།</skos:prefLabel>
         <bf:identifiedBy>
             <bdr:RefrKTsK>
                 <rdf:value>362</rdf:value>
